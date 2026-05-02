@@ -1,7 +1,8 @@
 # Recherche documentaire — Marnhagues-et-Latour
 
 *Dossier préparatoire à la rédaction d'un livre sur l'histoire de la commune.*
-*État au 2 mai 2026 — première campagne de dépouillement (sources en ligne).*
+*Première campagne : 2 mai 2026 (sources en ligne).*
+*Deuxième campagne : 2 mai 2026 — élucidation des points laissés ouverts (cf. § 12).*
 
 ---
 
@@ -93,7 +94,7 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 ### 4.2. Les trois familles seigneuriales
 1. **De Latour** — Plus de trois siècles d'occupation (Xe-XIIIe siècles environ). Construction de l'essentiel des tours et de l'enceinte médiévale. Famille éponyme du château et du village.
 2. **De Roquefeuil** (branche de Roquefeuil-Versols) — XIVe au XVIIe siècle. Adaptation aux nouveaux standards défensifs et résidentiels. Pour replacer dans la généalogie : la famille de Roquefeuil est l'une des grandes maisons du Rouergue méridional (avec branches Anduze, Versols, Combret, Castelnau-de-Bonafous). Catherine de Roquefeuil, dame de Combret, marie en 1381 Jean Pujols puis en 1396 Pons de Castelnau ; Arnaud II de Roquefeuil épouse en 1316 Jacquette de Combret. La branche **Roquefeuil-Versols** acquiert le château de Versols au XIIIe siècle puis Latour au XVe siècle.
-3. **De Bonald** — Fin du XVIIe siècle jusqu'à la Révolution. Famille originaire de Millau, **juge-bailli de Millau pendant sept générations**, noblesse d'extraction ancienne avec preuves de **1497**. Latour devient leur résidence principale.
+3. **De Bonald** — Acquisition **vers 1650** par **Jacques de Bonald**, *seigneur de Jonquières et de La Tour-de-Marnhagues*, capitaine au régiment de Saligny, marié en 1652 à **Marie de Rességuier**. Rachat de la **vicomté de La Rode** aux Roquefeuil. Famille originaire de Millau, **juge-bailli de Millau pendant sept générations**, noblesse d'extraction ancienne avec preuves de **1497**. Latour devient leur résidence principale, conservée jusqu'à la Révolution. — Source : Maurice de Bonald, *Documens généalogiques sur des familles du Rouergue*, Rodez, 1902.
 
 ### 4.3. L'abbaye de Nonenque
 - **1139** : don de terre par **Raymond de Montagnol** à **Guiraud, abbé de Sylvanès**, dans la vallée de l'El-Nonenque.
@@ -124,7 +125,7 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 
 ### 5.2. Reconstruction et apogée des seigneuries
 - **1730** : reconstruction des bâtiments de Nonenque par l'abbesse **Charlotte d'Estaing** (de la grande maison aristocratique d'Estaing — famille du futur amiral d'Estaing, héros des guerres d'Amérique).
-- **Fin XVIIe siècle** : installation de la **famille de Bonald** au château de Latour.
+- **Vers 1650** : installation de la **famille de Bonald** au château de Latour, via le rachat de la vicomté de La Rode aux Roquefeuil par Jacques de Bonald.
 - Les Bonald exploitent le domaine seigneurial : tithe (dîme) stockée dans des pièces dédiées du château, bergeries médiévales et cuisines maintenues en activité.
 
 ### 5.3. Le philosophe Louis de Bonald
@@ -145,7 +146,7 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 - **À reconstituer en archives** : liste des maires successifs depuis 1790 (sources : MairesGenWeb, base data.gouv.fr depuis 1814, registres municipaux conservés en mairie).
 
 ### 6.2. Sort des biens d'Église et de la noblesse
-- L'**abbaye de Nonenque** est fermée et vendue comme bien national pendant la Révolution.
+- L'**abbaye de Nonenque** est fermée en **1790** ; les moniales cisterciennes sont expulsées. Mise en vente comme **bien national** en 1791, l'abbaye est rachetée par **Louis Liquier**, négociant marseillais, qui accorde par compassion une **pension viagère** à toutes les religieuses dispersées. La propriété demeure dans la **famille Liquier pendant trois générations** (cas exceptionnel de continuité parmi les biens nationaux).
 - Le **château de Latour** est conservé par la famille de Bonald (les Bonald, malgré l'émigration de Louis-Gabriel, récupèrent leurs biens sous la Restauration).
 
 ### 6.3. Le cardinal de Bonald
@@ -303,17 +304,122 @@ Proposition de plan en 3 grandes parties (à discuter) :
 
 ---
 
-## 12. Points encore à éclaircir / interrogations ouvertes
+## 12. Compléments d'enquête (deuxième campagne)
 
-- **Datation précise du primitif Saint-Amans** : XIe ou XIIe siècle ? (recouper avec André Soutou et la *Carte archéologique*).
-- **Mode d'acquisition du château par les Bonald** (achat ? mariage ? héritage ?) à la fin du XVIIe siècle.
-- **Liste des abbesses de Nonenque** entre Tiburge (1232) et Charlotte d'Estaing (1730) : à reconstituer en série H.
-- **Sort de la communauté de Nonenque pendant la Révolution** (où sont allées les religieuses ? que sont devenus les biens ?).
-- **Présence ou absence de mégalithes** sur le territoire : à vérifier sur la *Carte archéologique de la Gaule, Aveyron* (CAG 12).
-- **Vie économique du XIXe siècle** : production agricole, commerce de la laine, foires.
-- **Identité des artisans** des plafonds peints du XVIe siècle (atelier régional ?).
-- **Héraldique communale** : la commune dispose-t-elle d'un blason ? (rien de trouvé en ligne).
-- **Mémoire orale et patois** : recueil systématique à organiser.
+Cette section regroupe les éclaircissements obtenus lors de la deuxième passe de recherche (mai 2026) sur les neuf points ouverts du dossier initial.
+
+### 12.1. Acquisition du château de Latour par les Bonald — élucidée
+
+L'acquisition s'est faite **vers 1650**, à la suite d'un **rachat** aux Roquefeuil (et non par mariage ni héritage direct).
+
+- **Acquéreur** : **Jacques de Bonald**, qualifié de *seigneur de Jonquières et de La Tour-de-Marnhagues*, **capitaine au régiment de Saligny** (régiment d'infanterie commandé par la branche Coligny-Saligny au mitan du XVIIe siècle, actif lors de la Fronde et des campagnes royales).
+- **Mariage** : Jacques de Bonald épouse **Marie de Rességuier** en **1652**, contractant alliance avec une autre maison rouergate.
+- **Titre acquis** : la **vicomté de La Rode** (rachetée vers 1650 aux Roquefeuil), titre transmis ensuite à la branche aînée des Bonald.
+- **Source primaire** : Maurice de Bonald, *Documens généalogiques sur des familles du Rouergue*, Rodez, 1902 (consultable sur Internet Archive). Référence à dépouiller systématiquement avant rédaction.
+
+Cela explique aussi la dénomination « **La Tour-de-Marnhagues** » qui apparaît au XVIIe siècle et qui préfigure la fusion administrative du chef-lieu et du hameau dans le toponyme communal moderne.
+
+### 12.2. Abbesses de Nonenque — chronologie partielle reconstituée
+
+Les recherches confirment qu'un dossier exhaustif existe : **C. Cazelles & J. Poulet**, *Les blasons des abbesses de Nonenque*, document publié par l'association *Cisterciens en Rouergue* (PDF en ligne, mai 2022).
+
+Premier jalonnement reconstitué :
+- **v. 1156** : *Pétronille* (probablement attestée comme prieure, puisque l'abbaye n'est érigée qu'en 1232).
+- **1232** : ***Tiburge***, première abbesse (élévation du prieuré en abbaye).
+- **1254** : ***Agnès de Clavières***, fondatrice en 1257 du prieuré de Saint-Sulpice-la-Pointe (Toulouse).
+- **1284** : ***Ermengarde d'Arpajon*** (issue de la grande maison rouergate des Arpajon).
+- *(suite à reconstituer en série H des AD de l'Aveyron, et via le PDF Cazelles-Poulet)*
+- **1730** : ***Charlotte d'Estaing***, abbesse reconstructrice (campagne de bâtiments majeure ; famille d'Estaing, parente de l'amiral Charles-Henri d'Estaing).
+
+→ Action à mener : récupérer le PDF Cazelles-Poulet et reproduire la liste complète chapitre par chapitre.
+
+### 12.3. Nonenque pendant la Révolution — destin éclairci
+
+- **2 novembre 1789** : décret de nationalisation des biens du clergé.
+- **1790** : suppression des congrégations religieuses ; les **moniales cisterciennes de Nonenque sont expulsées**, leurs biens mobiliers saisis.
+- **1791** : mise en vente comme **bien national** (district de Saint-Affrique).
+- **Acquéreur** : **Louis Liquier**, *« éminent négociant marseillais »* — il rachète l'abbaye et son domaine (vastes terres, cave d'affinage potentielle).
+- Geste remarquable : Liquier, ému par compassion, accorde une **pension viagère** à toutes les religieuses dispersées. *Cas individuel notable, à creuser : où vont-elles ? combien sont-elles ? leur trajectoire individuelle est-elle documentée ?*
+- **Trois générations Liquier** : la propriété demeure dans la famille du négociant marseillais, ce qui est exceptionnel (la plupart des biens nationaux changent de mains rapidement).
+- **1927** : la famille Liquier ou ses ayants droit revendent à la communauté chartreuse féminine.
+
+### 12.4. Mégalithes — pas de site recensé sur la commune
+
+L'enquête confirme l'**absence de dolmen ou de menhir recensé directement sur le territoire de Marnhagues-et-Latour** dans les inventaires courants (*Sites mégalithiques de l'Aveyron*, CAG 12). Cela tient à la position de la commune **en fond de vallée** (la Sorgues à 425 m), alors que les mégalithes du Rouergue se concentrent sur les **causses calcaires** (Larzac, Causse Noir).
+
+Sites mégalithiques **proches** (à 10-20 km) :
+- **Cornus** : grotte sépulcrale de **Camp Rouch** (Chalcolithique), dolmens et vestiges gallo-romains.
+- **Sainte-Eulalie-de-Cernon** : **dolmen de Rafènes**.
+- **Saint-Jean-du-Bruel** : **dolmen de Balmaresse**.
+- **Plateau de Saint-Affrique** (rive nord de la Sorgues) : dolmens de **Touloupy, Boussac Est, Boussac Ouest, Crassous Puech, Ibilié** et le dolmen classé de **Tiergues**.
+- **Larzac** au-dessus de la commune : 150 à 200 dolmens et environ 30 menhirs (chiffres consolidés).
+
+→ La préhistoire de Marnhagues-et-Latour s'inscrit donc dans un **maillage de transhumance néolithique** entre vallée et causse, plus que dans une occupation funéraire directe. Référence : Jacques Lourdou, *Inventaire des mégalithes du centre-Aveyron*, 1998.
+
+### 12.5. Vie économique au XIXe siècle — esquisse
+
+À défaut de monographie communale propre à Marnhagues-et-Latour, le contexte économique du **bassin de Saint-Affrique** au XIXe siècle se reconstitue ainsi :
+- Saint-Affrique vivait essentiellement des **manufactures de filature** (laine, coton, chanvre). L'industriel **Mazarin** y employait environ 900 personnes en pleine activité.
+- Déclin rapide de l'activité textile à la fin du XIXe siècle (révolution industrielle, concentration sur les centres plus puissants), exode rural.
+- La **production ovine pour le Roquefort** prend son essor commercial dès le XIXe siècle (caves de Roquefort à 30 km, Société des Caves Réunies de Roquefort 1810-1881).
+- **Marnhagues-et-Latour** participe vraisemblablement à cette double économie : élevage ovin pour le lait (rougier permien favorable) et complément textile pour les filatures de Saint-Affrique et Camarès.
+- À documenter : les foires de Camarès et Saint-Affrique (registres consulaires), les statistiques agricoles de l'Aveyron (Annuaire départemental, série M aux AD).
+
+### 12.6. Plafonds peints du XVIe siècle — éléments connus
+
+- Plafond peint du **premier tiers du XVIe siècle** (donc Renaissance première manière).
+- **Découverte récente** par l'Association des Amis du château ; auparavant masqué par des aménagements postérieurs.
+- **Étude scientifique en cours** par un laboratoire spécialisé : **dendrochronologie** (datation des bois de charpente), **photographie infrarouge** (sous-jacents), **analyse de pigments**.
+- Une vidéo *Le Plafond Peint du Château de Latour sur Sorgues* est disponible sur YouTube (production locale).
+- **Contexte stylistique régional** : les plafonds peints méridionaux (Languedoc, Quercy, Rouergue) connaissent un grand développement aux XIVe-XVIe siècles. Au début du XVIe, on assiste à un **renouveau iconographique** : abandon des monstres hybrides au profit de **guirlandes florales, cartouches paysagés et putti** d'inspiration italienne. La technique reste la **détrempe** sur planches et solives.
+- Atelier précis non identifié à ce jour. Hypothèses à explorer : artisans itinérants venus de **Toulouse**, **Albi** ou **Castres**, ou commande passée par un Roquefeuil-Versols (qui occupe encore le château au début du XVIe).
+- Référence générale : *Aux sources des plafonds peints médiévaux : Provence, Languedoc, Catalogne*, Laboratoire de Recherche des Monuments Historiques.
+
+### 12.7. Héraldique communale — pas de blason
+
+L'**Armorial des communes de l'Aveyron** (Wikipédia, armorialdefrance.fr) indique que **Marnhagues-et-Latour ne dispose pas de blason officiel**. La commune figure avec un *blason d'attente de gueules plain* (écu rouge non chargé), ce qui signifie que le blason reste à composer.
+
+→ **Piste à creuser pour le livre** : proposer une réflexion héraldique fondée sur les éléments emblématiques du lieu (la tour, la Sorgues, la rose des Roquefeuil, le sautoir des Bonald, la croix abbatiale de Nonenque…). On peut également puiser dans l'**armorial des familles seigneuriales** :
+- **Famille de Roquefeuil-Versols** : *de gueules à la cordelière d'argent*.
+- **Famille de Bonald** : armes à rechercher (probable composition à fasces ou alérions, à confirmer dans Maurice de Bonald, *Documens généalogiques*).
+- **Abbaye de Nonenque** : blasons d'abbesses recensés par Cazelles-Poulet.
+
+### 12.8. Mémoire orale et patois rouergat — sources accessibles
+
+- **Langue locale** : occitan, dialecte **languedocien**, sous-dialecte **rouergat**, parler du Rouergue **méridional** (zone de transition vers l'albigeois). Trait phonétique caractéristique : fermeture du *a* atone en *o*, transformation du *o* tonique en *uo*.
+- **Institut occitan de l'Aveyron (IOA)**, créé en 2003, conserve **plus de 21 000 documents** (vidéogrammes, témoignages oraux, photographies, textes anciens). Site : occitan-aveyron.fr.
+- **Collection « Al canton »** : opération initiée par le Conseil départemental en 1986 sous la direction de **Christian-Pierre Bedel**, avec un volume par canton (46 volumes au total). **Le volume *Al canton — Sant-Africa* (Saint-Affrique)** couvre potentiellement Marnhagues-et-Latour (ancien rattachement cantonal). PDF gratuits téléchargeables sur le site IOA pour les volumes épuisés.
+- **Collection « Vilatge »** : déclinaison communale plus fine, à vérifier pour Marnhagues-et-Latour spécifiquement.
+- **Audio-guides du château de Latour** : déjà existants, ils retracent *« la vie des derniers habitants »* du château et la mémoire des bénévoles ayant travaillé à la restauration. **Source orale précieuse à incorporer**, accessible via l'Association des Amis.
+- **Cafés occitans** organisés à Saint-Affrique (Radio Totem) — opportunité pour collecter des témoignages.
+- À ajouter : démarche personnelle d'enquête orale auprès des habitants âgés (Marnhagues, La Roquaubel, Latour).
+
+### 12.9. Datation précise de Saint-Amans de Valsorgue
+
+Confirmation et nuance :
+- **Site antique avéré** : tuiles et autres mobiliers gallo-romains retrouvés sur place, attestant une occupation continue depuis l'Empire.
+- **Au Xe siècle**, la chapelle possédait *« une grande chapelle annexe aujourd'hui disparue »* — première mention indirecte d'un édifice antérieur.
+- **1140** : mention écrite d'un *alleu* de Saint-Amans dans la documentation rouergate.
+- **Bâtiment actuel** : roman, **XIIe siècle**, abside dont la **partie haute a été reprise à l'époque gothique** (XIIIe-XIVe siècle ?).
+- **1235** : legs de Raymond de Llauro à la chapelle.
+- **1370** : *ecclesia S. Amantis de Ripparia* ; **1452** : *de la Ribera*.
+- Référence académique principale : **André Soutou** (1914-2003), spécialiste reconnu des églises romanes du Rouergue méridional, dont *Documents sur quelques églises du Rouergue (XIe et XIIIe siècles)*, *Annales du Midi*, t. 81, n° 94, 1969, p. 349-378.
+- **Geneviève Durand**, *Les églises rurales du premier âge roman dans le Rouergue méridional*, *Archéologie du Midi médiéval*, t. 7, 1989, p. 3-42 — référence complémentaire.
+- **Attention à ne pas confondre** avec la *chapelle Saint-Amans du Larzac* (commune de **Sainte-Eulalie-de-Cernon**), qui est elle un édifice **carolingien / pré-roman** authentique étudié et fouillé par Soutou (deux campagnes), mal restauré et dont le cimetière a été détruit au bulldozer.
+
+---
+
+## 13. Points encore à éclaircir après la deuxième campagne
+
+- **Liste exhaustive des abbesses** entre Ermengarde d'Arpajon (1284) et Charlotte d'Estaing (1730) : récupérer le PDF Cazelles-Poulet, dépouiller la série H aux AD de l'Aveyron.
+- **Trajectoire individuelle des moniales de Nonenque expulsées en 1790** : combien étaient-elles ? noms, retour en famille, vœux maintenus en clandestinité ?
+- **Famille Liquier** (acquéreurs marseillais) : trois générations sur place — quel rapport au territoire, quelle exploitation, quelle politique vis-à-vis des chapelles ?
+- **Iconographie du plafond peint** : rapport d'étude scientifique de l'AACL à demander.
+- **Dates précises de l'épisode huguenot** à Nonenque (1567 ? 1574 ?) — à recouper dans la chronologie générale des guerres de religion en Rouergue.
+- **Maire de Marnhagues-et-Latour en 1790** et liste complète des édiles (registre municipal, MairesGenWeb).
+- **Vie économique XIXe sur la commune même** (matrice cadastrale, recensements professionnels).
+- **Récit oral des « derniers habitants » du château** (audio-guides AACL) : transcrire pour incorporer comme source primaire.
+- **Cartographie historique** : Cassini (1750), État-Major (1820-1860), cadastre napoléonien — à superposer sur Géoportail.
 
 ---
 
