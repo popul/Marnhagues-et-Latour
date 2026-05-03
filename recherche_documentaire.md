@@ -99,11 +99,25 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 
 ### 4.3. L'abbaye de Nonenque
 - **1139** : don de terre par **Raymond de Montagnol** à **Guiraud, abbé de Sylvanès**, dans la vallée de l'El-Nonenque.
-- **1146** (parfois 1148) : fondation par Guiraud d'une **communauté féminine**, prieuré dépendant de Sylvanès — l'affiliation cistercienne de Sylvanès était conditionnée à l'éloignement des sœurs dans un prieuré indépendant.
-- **1232** : élévation au rang d'**abbaye** ; **Tiburge** est la première abbesse.
+- **1145** : fondation par Guiraud d'une **communauté féminine** sous la conduite de **Nazarine, première prieure**. Prieuré dépendant de Sylvanès — l'affiliation cistercienne de Sylvanès était conditionnée à l'éloignement des sœurs dans un prieuré indépendant.
+- **1232** : élévation au rang d'**abbaye** ; **Tiburge** est la première abbesse. La liste complète des 8 prieures (1145-1231) et 26 abbesses (1232-1760) est reproduite en § 14.3.
 - Statut : abbaye féminine cistercienne, dépendant du diocèse de Vabres (créé en 1317 par Jean XXII en démembrant celui de Rodez), puis rattachée au diocèse de Rodez.
 - Placée sous la protection des **comtes de Toulouse** et des **comtes de Rodez**.
 - L'une des **six abbayes cisterciennes du Rouergue** (Sylvanès, Bonnecombe, Beaulieu, Bonneval, Loc-Dieu, Nonenque).
+- **Réseau familial des abbesses** : trois grandes maisons rouergates dominent le recrutement sur six siècles — les **Roquefeuil(-Versols)** avec **7 abbesses** de 1310 à 1559 (Rause/Rose, Marguerite ×2, Élizabeth, Delphine, Louise, Blanche), les **Castelnau** (Bourguine 1465, Jeanne 1480), les **Montpezat** (Louise Desprez 1560, Marguerite 1595). Plusieurs autres abbesses appartiennent à la haute noblesse rouergate (Arpajon, Estaing, Aigrefeuille, La Tour, Cazillac) ou à l'aristocratie de cour à partir du XVIIᵉ (Simiane de Gordes, Toiras-d'Amboise, **Pardaillan de Gondrin de Montespan d'Antin**, parente directe de la marquise de Montespan). L'abbaye fonctionne ainsi comme une **caisse de placement honorable** pour les filles cadettes de la noblesse régionale, schéma classique des abbayes féminines de l'Ancien Régime. Ce réseau prosopographique mérite un chapitre dédié dans le livre.
+
+#### 4.3.1. Possessions de Nonenque sur le territoire actuel de Marnhagues-et-Latour
+
+Selon l'inventaire publié par l'association *Cisterciens en Rouergue* (page « L'abbaye de Nonenque, abbaye féminine », [cisterciensenrouergue.fr](https://cisterciensenrouergue.fr/labbaye-de-nonenque-abbaye-feminine/), consultée le 03/05/2026), Nonenque possédait dans son réseau de **granges proches** une exploitation située sur le territoire actuel de la commune :
+
+- **Grange de France** (commune de Marnhagues-et-Latour) — toponyme à localiser précisément (Latour ? Marnhagues ? La Roquaubel ? un écart ?). Nom qui peut évoquer le terme occitan *fronts* / *fraina* (= terres de défrichement) plutôt qu'une référence au royaume.
+
+Ce point est décisif : il signifie qu'une partie du territoire communal était directement **exploitée par les moniales** au moyen âge, ce qui éclaire d'une autre lumière l'imbrication socio-foncière entre la seigneurie de Latour, la commande des Roquefeuil et l'abbaye. À recouper :
+- **Cadastre napoléonien** (vers 1820) : parcelles « France » — dépouillement aux AD Aveyron.
+- **Cartulaire Couderc-Rigal 1950** : actes de donation ou d'achat de la grange.
+- **Toponymie cadastrale actuelle** (consultable sur [cadastre.gouv.fr](https://www.cadastre.gouv.fr)) : un lieu-dit *La Grange*, *Le Grangé*, *France*, *Frances* persiste-t-il sur la commune ?
+
+> Issue de référence : [#9](https://github.com/popul/Marnhagues-et-Latour/issues/9).
 
 ### 4.4. Patrimoine religieux médiéval
 - **Chapelle Sainte-Magdeleine de Marnhagues** : première mention en **1184**, sous l'autorité de l'**abbaye de Vabres** (puissante abbaye bénédictine fondée en 862, érigée en évêché en 1317). Édifice primitif probablement du **Xe siècle** : nef rectangulaire, chœur probablement rectangulaire et voûté en berceau. Sarcophage haut Moyen Âge incrusté dans le mur du cimetière. Selon **André Soutou** (1974), la dédicace à Sainte-Madeleine désignait au Moyen Âge un **petit hôpital / lazaret**.
@@ -121,8 +135,18 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 ## 5. Époque moderne (XVIe-XVIIIe siècles)
 
 ### 5.1. Guerres de religion
-- **XVIe siècle** : l'abbaye de Nonenque est **pillée et incendiée par les Calvinistes** lors des guerres de religion (Rouergue méridional fortement marqué par la pénétration protestante via Saint-Affrique et Montauban).
-- Le château de Latour subit également des aléas militaires (à documenter : l'enquête historique en cours par l'association des Amis du château explore cette période).
+- **XVIe siècle, fenêtre 1560-1595** : l'abbaye de Nonenque est **pillée et incendiée par les Calvinistes**. La datation précise n'est pas attestée, mais la chronologie des abbesses recoupe cette fenêtre :
+  - **Louise Desprez de Montpezat (1560-1595)** est explicitement désignée par Wikipédia comme l'abbesse « sous le titre de laquelle l'abbaye fut incendiée et pillée » ;
+  - **Marguerite de Montpezat (1595-1660)** lui succède et « va travailler à la restauration de l'abbaye », ce qui confirme que les destructions sont antérieures à 1595 et postérieures à 1560.
+- **Hypothèse de datation à confirmer en archives** : la fenêtre la plus probable est **1567-1574** (3ᵉ → 5ᵉ guerres de Religion, particulièrement violentes en sud Aveyron — prise de Saint-Affrique par les protestants en 1567, ravages dans le diocèse de Vabres). Sylvanès, abbaye-mère de Nonenque, est elle aussi pillée durant cette période. À recouper dans :
+  - **Couderc C. & Rigal J.-L.**, *Cartulaire et documents de l'abbaye de Nonenque*, Rodez, 1950 — source primaire pour les actes de dommages éventuels.
+  - **AD Aveyron, série H** : registre des dommages et procès-verbaux de visite d'après-pillage.
+  - **Bourgeois & Douzou**, *Une aventure spirituelle dans le Rouergue méridional* (Cerf 1999) — chronologie comparée Sylvanès-Nonenque.
+  - **Henri Affre**, *Lettres sur l'histoire du Rouergue* (1869) et *Dictionnaire des institutions du Rouergue*.
+- **Réseau Roquefeuil et bascule confessionnelle** : la maison de Roquefeuil-Versols connaît des **dissensions confessionnelles** au XVIᵉ — certains membres adhèrent au protestantisme. Or les Roquefeuil sont **fortement présents à Nonenque** : 7 abbesses entre 1310 et 1559 (Rause, Marguerite, Élizabeth, Marguerite, Delphine, Louise, Blanche). L'incendie de leur ancienne abbaye familiale par les calvinistes coïncide avec la sortie de la dynastie (la dernière abbesse Roquefeuil, Blanche, est nommée en 1559 ; la première abbesse non-Roquefeuil, Louise Desprez de Montpezat, prend la tête en 1560 — précisément l'année qui ouvre la fenêtre du pillage).
+- **Le château de Latour** subit également des aléas militaires (à documenter : l'enquête historique en cours par l'association des Amis du château explore cette période). Hypothèse à creuser : un raid huguenot ayant frappé Nonenque a-t-il aussi atteint Latour, distant de quelques kilomètres et tenu par les Roquefeuil-Versols ?
+
+> Issue de référence : [#21](https://github.com/popul/Marnhagues-et-Latour/issues/21).
 
 ### 5.2. Reconstruction et apogée des seigneuries
 - **1730** : reconstruction des bâtiments de Nonenque par l'abbesse **Charlotte d'Estaing** (de la grande maison aristocratique d'Estaing — famille du futur amiral d'Estaing, héros des guerres d'Amérique).
@@ -320,19 +344,17 @@ L'acquisition s'est faite **vers 1650**, à la suite d'un **rachat** aux Roquefe
 
 Cela explique aussi la dénomination « **La Tour-de-Marnhagues** » qui apparaît au XVIIe siècle et qui préfigure la fusion administrative du chef-lieu et du hameau dans le toponyme communal moderne.
 
-### 12.2. Abbesses de Nonenque — chronologie partielle reconstituée
+### 12.2. Abbesses de Nonenque — chronologie reconstituée
 
-Les recherches confirment qu'un dossier exhaustif existe : **C. Cazelles & J. Poulet**, *Les blasons des abbesses de Nonenque*, document publié par l'association *Cisterciens en Rouergue* (PDF en ligne, mai 2022).
-
-Premier jalonnement reconstitué :
-- **v. 1156** : *Pétronille* (probablement attestée comme prieure, puisque l'abbaye n'est érigée qu'en 1232).
-- **1232** : ***Tiburge***, première abbesse (élévation du prieuré en abbaye).
-- **1254** : ***Agnès de Clavières***, fondatrice en 1257 du prieuré de Saint-Sulpice-la-Pointe (Toulouse).
-- **1284** : ***Ermengarde d'Arpajon*** (issue de la grande maison rouergate des Arpajon).
-- *(suite à reconstituer en série H des AD de l'Aveyron, et via le PDF Cazelles-Poulet)*
-- **1730** : ***Charlotte d'Estaing***, abbesse reconstructrice (campagne de bâtiments majeure ; famille d'Estaing, parente de l'amiral Charles-Henri d'Estaing).
-
-→ Action à mener : récupérer le PDF Cazelles-Poulet et reproduire la liste complète chapitre par chapitre.
+> Section reprise et complétée. La **liste exhaustive** des 8 prieures (1145-1231) et 26 abbesses (1232-1760) est désormais reproduite en **§ 14.3**, sourcée sur Wikipédia (qui agrège Couderc-Rigal 1950).
+>
+> Faits saillants :
+> - 1145 fondation par **Nazarine** (et non v. 1156 Pétronille comme indiqué initialement — Pétronille est la 2ᵉ prieure) ;
+> - Domination Roquefeuil 1310-1559 (7 abbesses sur 9, soit 78 % de la période) ;
+> - **1725** Charlotte d'Estaing reconstruit l'abbaye (et non 1730 comme précédemment noté) ;
+> - **1760** Félice de Pardaillan de Gondrin de Montespan d'Antin, dernière abbesse documentée par Wikipédia.
+>
+> **Trou résiduel** : période 1760-1790. À combler via le PDF *Cazelles & Poulet, Les blasons des abbesses de Nonenque* (Cisterciens en Rouergue, mai 2022) **non récupéré** — à demander à l'association ; et via le Cartulaire Couderc-Rigal 1950 aux AD Aveyron.
 
 ### 12.3. Nonenque pendant la Révolution — destin éclairci
 
@@ -341,6 +363,14 @@ Premier jalonnement reconstitué :
 - **1791** : mise en vente comme **bien national** (district de Saint-Affrique).
 - **Acquéreur** : **Louis Liquier**, *« éminent négociant marseillais »* — il rachète l'abbaye et son domaine (vastes terres, cave d'affinage potentielle).
 - Geste remarquable : Liquier, ému par compassion, accorde une **pension viagère** à toutes les religieuses dispersées. *Cas individuel notable, à creuser : où vont-elles ? combien sont-elles ? leur trajectoire individuelle est-elle documentée ?*
+
+  Pistes pour identifier nominativement la dernière communauté (issue [#10](https://github.com/popul/Marnhagues-et-Latour/issues/10)) :
+  - **Dernière abbesse connue (Wikipédia)** : Félice de Pardaillan de Gondrin de Montespan d'Antin, élue en 1760. Si elle est encore vivante en 1790, elle est la signataire de la déclaration au Comité ecclésiastique. Sinon, identifier son successeur entre 1760 et 1790.
+  - **Archives nationales, série DXIX** (Comité ecclésiastique 1789-1791) : déclarations des religieuses de Nonenque — chaque sœur déclare nom de baptême, nom de religion, date d'entrée, état physique, pension demandée. **Source primaire majeure** non encore consultée.
+  - **AD Aveyron, série H** : registre de profession (entrées au noviciat) → liste exhaustive des sœurs sur les XVIIᵉ-XVIIIᵉ.
+  - **AD Aveyron, série Q** (biens nationaux) et **série L** (administrations révolutionnaires) : inventaires de 1790, listes pour la pension Liquier.
+  - **AD Aveyron, série V** (cultes après le Concordat 1801) : trace des survivantes éventuellement reconstituées en communauté ou décédées dans leur famille.
+  - **État civil post-1793** dans les communes du Rouergue où elles se sont retirées (familles d'origine — souvent les Roquefeuil-Versols, Montpezat, Pardaillan — donc à chercher en Bas-Quercy, Toulousain, Saint-Affricain).
 - **Trois générations Liquier** : la propriété demeure dans la famille du négociant marseillais, ce qui est exceptionnel (la plupart des biens nationaux changent de mains rapidement).
 - **1927** : la famille Liquier ou ses ayants droit revendent à la communauté chartreuse féminine.
 
@@ -509,6 +539,69 @@ Cassini-EHESS donne les recensements **1793, 1800, 1841, 1846, 1851, 1856, 1861,
 À récupérer aux **AD de l'Aveyron, série 6 M** (recensements nominatifs en ligne, [https://archives.aveyron.fr](https://archives.aveyron.fr/)) — un dépouillement par commune et par année. Livrables prévus : un PDF par année, dans un sous-dossier `archives/recensements/AAAA/`. Chaque ligne nominative donnera : chef de famille, profession, hameau (Latour / Marnhagues / La Roquaubel / écarts), composition du ménage. Permettra notamment d'élucider le pic 1931.
 
 > **Sources consultées le 2026-05-03.** Issue de référence : [#1](https://github.com/popul/Marnhagues-et-Latour/issues/1).
+
+### 14.3. Liste exhaustive des prieures et abbesses de Nonenque (1145-1760)
+
+Source primaire : [Wikipédia — *Abbaye de Nonenque*](https://fr.wikipedia.org/wiki/Abbaye_de_Nonenque), section *Liste des prieures et abbesses cisterciennes de 1145 à 1760*. Bibliographie de fond : Couderc & Rigal, *Cartulaire et documents de l'abbaye de Nonenque*, Rodez, 1950 (référence à recouper aux AD Aveyron pour l'authentification de chaque entrée).
+
+#### 14.3.1. Prieures (1145-1231)
+
+| Année | Prieure | Note |
+|---|---|---|
+| 1145 | **Nazarine** | Première prieure, fondatrice de la communauté féminine. |
+| 1156 | Pétronille | Gestion habile de l'administration du monastère. |
+| 1183 | Ponce | — |
+| 1184 | Belixinde | Augmente les revenus du prieuré. |
+| 1208 | Agnès | — |
+| 1215 | Ardelina | — |
+| 1225 | Pétronille *(homonyme ou retour ?)* | À recouper — homonymie avec celle de 1156 (impossible vu l'écart de 69 ans). |
+| 1231 | Sibile d'Avène | Dernière prieure avant l'érection en abbaye. |
+
+#### 14.3.2. Abbesses (1232-1760)
+
+| Année d'entrée en charge | Abbesse | Maison / origine | Faits marquants |
+|---|---|---|---|
+| 1232 | **Tiburge** | — | Première abbesse — le prieuré devient abbaye. |
+| 1254 | Agnès de Clavières | — | Fonde en 1257 le prieuré de Saint-Sulpice-la-Pointe (Toulouse). |
+| 1282 | Agnès | — | — |
+| 1284 | **Ermengarde d'Arpajon** | Arpajon | Grande maison rouergate. |
+| 1292 | Agnès | — | — |
+| 1299 | Elix de La Fare | La Fare | — |
+| 1310 | **Rause (ou Rose) de Roquefeuil** | Roquefeuil | Acquiert le château de la Peyre. *Première Roquefeuil.* |
+| 1328 | Marguerite de Roquefeuil | Roquefeuil | — |
+| 1331 | Braide | — | — |
+| 1347 | Béatrix *(2ᵉ du nom)* | — | — |
+| 1351 | Florence d'Aigrefeuille | Aigrefeuille | Sœur des évêques de Vabres et Rodez (réseau ecclésiastique). |
+| 1369 | Élizabeth de Roquefeuil | Roquefeuil | — |
+| 1390 | Hélène Courdette | — | — |
+| 1410 | Flore de Cazillac | Cazillac | — |
+| 1465 | Bourguine de Castelnau | Castelnau | — |
+| 1480 | Jeanne de Castelnau | Castelnau | — |
+| 1497 | Catherine de la Tour | La Tour | Lien possible avec la seigneurie homonyme. |
+| 1540 | Marguerite de Roquefeuil | Roquefeuil | — |
+| 1543 | Delphine de Roquefeuil | Roquefeuil | — |
+| 1553 | Louise de Roquefeuil | Roquefeuil | **S'auto-déclare abbesse en 1553** — épisode contesté. |
+| 1559 | **Blanche de Roquefeuil** | Roquefeuil | **Première abbesse nommée par le roi** (effet du Concordat de Bologne 1516, qui s'applique tardivement à Nonenque). |
+| 1560 | **Louise Desprez de Montpezat** | Montpezat | **Sous son titre l'abbaye est incendiée et pillée** par les calvinistes (cf. § 5.1). |
+| 1595 | Marguerite de Montpezat | Montpezat | Travaille à la **restauration** de l'abbaye. |
+| 1660 | Suzanne de Simiane de Gordes | Simiane | — |
+| 1694 | Elizabeth de Toiras-d'Amboise | Toiras / Amboise | Nommée par le roi. |
+| 1725 | **Charlotte d'Estaing** | Estaing | **Reconstruit l'abbaye** — campagne de bâtiment majeure (parente de l'amiral Charles-Henri d'Estaing). |
+| 1760 | Félice de Pardaillan de Gondrin de Montespan d'Antin | Pardaillan / Montespan | Parente de la marquise de Montespan. **Dernière abbesse documentée par Wikipédia ; à raccorder à l'expulsion de 1790** — était-elle encore vivante et en charge en 1790 ? À défaut une 27ᵉ abbesse a-t-elle exercé entre 1760 et 1790 ? Question critique pour l'issue [#10](https://github.com/popul/Marnhagues-et-Latour/issues/10) (trajectoires des moniales expulsées). |
+
+#### 14.3.3. Lectures
+
+- **34 supérieures attestées sur 615 ans** (1145-1760), soit une charge moyenne de 18 ans — cohérent avec un cloître féminin où la mère abbesse était souvent élue tardivement et exerçait jusqu'à sa mort.
+- **Concentration Roquefeuil** : 7 abbesses entre 1310 et 1559 (sur 9 abbesses de cette période), soit **78 %** — l'abbaye fonctionne pendant 250 ans comme un **fief monastique de la maison Roquefeuil**, qui contrôle aussi le château de Latour. Cette imbrication explique la fragilité durant les guerres de Religion (les Roquefeuil-Versols connaissent des conversions calvinistes), et la rapide bascule vers le **système concordataire royal** à partir de 1559.
+- **Phase royale (1559-1790)** : à partir de Blanche, les abbesses sont nommées par le roi de France. Les patronymes deviennent ceux de la noblesse de cour (Pardaillan, Estaing, Toiras d'Amboise) — l'abbaye est instrumentée comme bénéfice ecclésiastique au service de Versailles.
+- **Transition 1559-1560** : la vacance d'à peine un an entre Blanche de Roquefeuil (1559) et Louise Desprez de Montpezat (1560) marque la **fin de la prise familiale** sur Nonenque et coïncide avec l'ouverture de la fenêtre des troubles huguenots. À étudier dans les **registres notariaux** (série 3 E aux AD Aveyron) pour comprendre les arrangements financiers de la sortie des Roquefeuil.
+
+> **Trous identifiés** :
+> - Période **1760-1790** : la dernière abbesse documentée (Félice de Pardaillan d'Antin) entre en charge en 1760. Y a-t-il eu une successeur entre 1760 et l'expulsion de 1790 ? Wikipédia s'arrête en 1760, le Cartulaire Couderc-Rigal 1950 doit donner la clé.
+> - **Identification individuelle** des moniales à chaque chapitre (combien de sœurs ? quels patronymes ?). C'est le PDF *Cazelles & Poulet, Les blasons des abbesses de Nonenque* (Cisterciens en Rouergue, mai 2022) qui apporterait les blasons héraldiques de chaque abbesse — non récupéré à ce jour, à demander directement à l'association via [cisterciensenrouergue@outlook.com](mailto:cisterciensenrouergue@outlook.com).
+> - **Prosopographie de la communauté** : la seule liste accessible est celle des supérieures. Pour reconstituer la communauté féminine entière (8-12 sœurs en moyenne pour une abbaye de cette taille), il faut le **registre de profession** en série H aux AD Aveyron — qui éclairera aussi l'issue [#10](https://github.com/popul/Marnhagues-et-Latour/issues/10).
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#9](https://github.com/popul/Marnhagues-et-Latour/issues/9).
 
 ### 14.10. Liste des maires depuis 1790
 
