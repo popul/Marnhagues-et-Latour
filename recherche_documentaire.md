@@ -110,7 +110,7 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 
 Selon l'inventaire publié par l'association *Cisterciens en Rouergue* (page « L'abbaye de Nonenque, abbaye féminine », [cisterciensenrouergue.fr](https://cisterciensenrouergue.fr/labbaye-de-nonenque-abbaye-feminine/), consultée le 03/05/2026), Nonenque possédait dans son réseau de **granges proches** une exploitation située sur le territoire actuel de la commune :
 
-- **Grange de France** (commune de Marnhagues-et-Latour) — toponyme à localiser précisément (Latour ? Marnhagues ? La Roquaubel ? un écart ?). Nom qui peut évoquer le terme occitan *fronts* / *fraina* (= terres de défrichement) plutôt qu'une référence au royaume.
+- **Grange de France** (commune de Marnhagues-et-Latour). **Localisation précisée par Wikipédia** ([article *Marnhagues-et-Latour*](https://fr.wikipedia.org/wiki/Marnhagues-et-Latour)) : *« À l'extrémité de la vallée, près de la chapelle romane de Saint-Amans, un lieu-dit "Métairie de France", ancienne Grange de Nonenque, témoigne… du passé cistercien de la région. »* Le toponyme actuel est donc **« Métairie de France »**, situé en aval du bourg de Latour, **près de la chapelle Saint-Amans-de-Valsorgue**. Étymologie probable du nom : occitan *fronts* / *fraina* (terres de défrichement) plutôt qu'une référence au royaume.
 
 Ce point est décisif : il signifie qu'une partie du territoire communal était directement **exploitée par les moniales** au moyen âge, ce qui éclaire d'une autre lumière l'imbrication socio-foncière entre la seigneurie de Latour, la commande des Roquefeuil et l'abbaye. À recouper :
 - **Cadastre napoléonien** (vers 1820) : parcelles « France » — dépouillement aux AD Aveyron.
@@ -455,6 +455,110 @@ Confirmation et nuance :
 ---
 
 *Document de travail à enrichir au fil des dépouillements. Toute information collectée doit être systématiquement référencée (cote d'archive, page, URL avec date de consultation) pour pouvoir être citée dans l'ouvrage final.*
+
+---
+
+### 14.11. Proposition héraldique pour la commune
+
+> Source bibliographique : [Armorial de France](https://armorialdefrance.fr/) ; convention héraldique française ; § 12.7 du présent document. Cf. issue [#19](https://github.com/popul/Marnhagues-et-Latour/issues/19).
+
+#### 14.11.1. État de l'art héraldique
+
+Marnhagues-et-Latour ne dispose **pas** de blason officiel ; un *blason d'attente de gueules plain* (écu rouge non chargé) lui est attribué d'après l'Armorial des communes de l'Aveyron. La rédaction d'un livre municipal est l'occasion idéale d'une **réflexion héraldique** documentée à proposer au conseil municipal.
+
+#### 14.11.2. Éléments emblématiques mobilisables (héraldiquement parlables)
+
+| Élément | Justification historique | Charge héraldique |
+|---|---|---|
+| **Tour** (donjon) | Toponyme parlant Latour. Symbole le plus universel et stable du territoire depuis le Xᵉ siècle. | Tour donjonnée, en pierre (= argent ou or). |
+| **Sorgues** (rivière) | Hydronyme structurant la vallée. Crue exceptionnelle 1992 (cf. § 14.5). Source karstique au pied du Larzac. | Fasce ondée d'azur, ou rivière en flanc d'écu. |
+| **Cordelière d'argent** des Roquefeuil-Versols | Maison dominante 7 abbesses sur 250 ans + seigneurs de Latour XVᵉ-XVIIᵉ. | Cordelière d'argent passée en sautoir, ou simplement présente comme bordure. |
+| **Armes des Bonald** | « De gueules, à trois bonnets d'évêque d'or », ou variante. Famille seigneuriale 1650 et XIXᵉ-XXᵉ. À confirmer dans Maurice de Bonald 1902. | Quartier ou pièce d'augmentation. |
+| **Croix abbatiale** ou **rose** d'abbesse | 26 abbesses entre 1232 et 1760 (§ 14.3). Possessions cisterciennes sur la commune (Métairie de France). | Croix latine ou rose à 5 pétales. |
+| **Brebis ou agneau** | Pastoralisme caussen (cf. § 14.7 Larzac, économie roquefort). | Brebis passante d'argent, ou agnus dei. |
+| **Oppidum gallo-romain** sous Latour | Profondeur antique du site (§ 3). | Difficile à figurer héraldiquement — exclu sauf dans la **devise**. |
+
+#### 14.11.3. Trois propositions motivées
+
+**Proposition A — Synthèse seigneurialo-féodale** (ce qui dit l'histoire « officielle »)
+
+> *De gueules à la tour donjonnée d'argent, accostée à dextre d'une rose d'argent, à dextre d'un agneau d'argent ; à la fasce ondée d'azur en pointe.*
+
+Lecture : tour de Latour (centre), rose Roquefeuil/Bonald (à droite), agneau cisterciene/pastorale (à gauche), Sorgues en pointe. **Avantage** : couvre les quatre dynasties qui ont structuré le territoire. **Inconvénient** : composition chargée pour un blason communal moderne.
+
+**Proposition B — Minimalisme paysager** (ce qui se voit aujourd'hui)
+
+> *Coupé : au 1) de gueules à la tour donjonnée d'argent ; au 2) d'azur à la fasce ondée d'argent.*
+
+Lecture : Latour en haut, Sorgues en bas. **Avantage** : extrêmement lisible, identifie immédiatement les deux pôles toponymiques de la commune (la Tour, la rivière). **Inconvénient** : aucune référence à la profondeur historique (abbaye, Roquefeuil, Bonald).
+
+**Proposition C — Mémoire abbatiale** (mise en avant de Nonenque)
+
+> *D'azur à la cordelière d'argent passée en sautoir, accompagnée en chef d'une tour d'argent, en flancs et pointe de trois roses d'argent.*
+
+Lecture : la cordelière des Roquefeuil-Versols (en signe d'humilité religieuse) tient la tour de Latour et trois roses des abbesses. **Avantage** : signe distinctif unique en Aveyron, met en avant l'**abbaye comme axe identitaire**. **Inconvénient** : occulte le pastoralisme.
+
+#### 14.11.4. Devise possible
+
+Pour accompagner les armes, plusieurs devises possibles, alignées sur le caractère du lieu :
+
+- *Sub turre ad fontem* — « Sous la tour, vers la source » (la Sorgues sortant du causse).
+- *Antiqua et nova* — « L'ancien et le nouveau » (continuité Roquefeuil/Bonald → reprise communale 1991).
+- En occitan : *D'aiga e de pèira* — « D'eau et de pierre ».
+
+#### 14.11.5. Démarche à suivre
+
+1. **Soumettre les 3 propositions** au conseil municipal pour discussion publique.
+2. Confirmer les **armes des Bonald** dans Maurice de Bonald 1902 (texte intégral disponible sur [Internet Archive](https://archive.org/details/documensgnalogi00bonagoog)).
+3. Soumettre la proposition retenue à la **Commission départementale d'héraldique** (s'il en existe une en Aveyron) ou directement au **Service héraldique du ministère de la Culture** pour validation graphique.
+4. Faire dessiner par un héraldiste (Pierre-Henri Borgers, Jean-François Binon ou un autre) une **planche définitive** pour publication dans le livre.
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#19](https://github.com/popul/Marnhagues-et-Latour/issues/19).
+
+### 14.12. État d'avancement par issue
+
+> Tableau de bord de l'avancement des 29 issues de recherche au **2026-05-03**.
+
+| Issue | Sujet | Statut | Section(s) | Reste à faire |
+|---:|---|---|---|---|
+| **#1** | Démographie 1793-1999 | ✅ documenté (série 1793-2023) | § 14.1, § 1.3 | Listes nominatives 1901-1936 (AD série 6 M sur place), recensements 1806/1821/1831/1836 |
+| **#2** | Liste des maires depuis 1790 | ✅ documenté (14 entrées, 1793-en cours) | § 14.10, § 1.1 | Maire 1790-1793 (AD série E-dépôt + L) ; **lacune 1903-1995** (92 ans à dépouiller) |
+| **#3** | Monument aux morts (architecture, liste 14-18) | ⚠️ MemorialGenWeb anti-crawling | — | Visiter la commune + photographier + relever liste nominative ; recouper Mémoire des Hommes via accès direct |
+| **#4** | Trajectoires des poilus (matricules) | ⚠️ AD Aveyron registres matricules à dépouiller | — | Sur [archives.aveyron.fr](https://archives.aveyron.fr/recherche/registres-matricules), dépouiller les classes 1898-1919 (poilus 18-40 ans en 1914) nés à Marnhagues-et-Latour |
+| **#5** | WWII vie communale | ⚠️ archives à dépouiller | — | Délibérations 1939-1945, *Comité de Libération*, archives gendarmerie Saint-Affrique |
+| **#6** | École communale | ⚠️ archives + témoignages | — | Délibérations + matricules instituteurs (académie de Toulouse) |
+| **#7** | Acte de rachat château 1991 | ⚠️ archives à demander | — | Délibérations 1989-1991 + acte notarié SCP Saint-Affrique |
+| **#8** | Plafond peint XVIᵉ | ⚠️ rapport DRAC à demander | — | Demande à la **DRAC Occitanie** (service patrimoine) ou à l'**AACL** (Amis du Château de Latour) |
+| **#9** | Abbesses de Nonenque 1145-1760 | ✅ liste exhaustive (34 supérieures) | § 14.3, § 4.3, § 12.2 | Recoupement Cartulaire Couderc-Rigal 1950 ; abbesses 1760-1790 ; PDF Cazelles-Poulet à demander |
+| **#10** | Moniales de 1790 | 🟡 pistes documentaires précisées | § 6.2, § 12.3 | Archives nationales DXIX, AD Aveyron H/Q/L/V, état civil familles d'origine |
+| **#11** | Famille Liquier (3 générations) | ⚠️ source web non disponible | § 6.2, § 12.3 | AD Bouches-du-Rhône (Marseille) actes notariés ; bibliographie marseillaise XVIIIᵉ |
+| **#12** | Chartreuse XXᵉ-XXIᵉ | 🟡 cadre Wikipédia OK | § 7.1, § 14.3 biblio | Steyn 2006 *Carthusian architecture*, contact direct chartreuse pour effectifs |
+| **#13** | Économie XIXᵉ (cadastre, foires) | ⚠️ archives à dépouiller | — | Matrice cadastrale napoléonienne AD Aveyron + Statistique générale Gallica |
+| **#14** | Résultats électoraux | ✅ municipales 2020 (conseil 11 membres) | § 14.8 | Datasets data.gouv pour 2014, 2026, présidentielles 2017/2022/2027, législatives, européennes |
+| **#15** | Crues de la Sorgues | ✅ régime + crue 1992 | § 14.5 | Impact Saint-Amans en 1992 ; archives gendarmerie/préfecture |
+| **#16** | Mémoire orale, patois | ⚠️ collecte humaine | — | Collecte audio AACL, transcription Al canton ; SDIS pour les pompiers volontaires patois |
+| **#17** | Cartographie historique | 🟡 sources publiques pointées | — | [Géoportail couches historiques](https://www.geoportail.gouv.fr) (Cassini 1750, État-Major 1820-60, IGN 1950, …) ; superposition à compiler en annexe iconographique |
+| **#18** | Cartes postales 1900-1950 | ⚠️ Delcampe (paywall) ou collection privée | — | Inventaire des cartes existantes (Delcampe, Geneanet, archives départementales iconographiques) |
+| **#19** | Héraldique | ✅ 3 propositions motivées | § 14.11 | Soumission au conseil municipal + validation héraldiste |
+| **#20** | Presse locale 1900-2026 | ⚠️ Retronews (paywall) | — | *Centre-Presse Aveyron*, *Journal de Millau*, requêtes ciblées (Larzac 1971-1981, crue 1992, rachat château 1991, fermeture école) |
+| **#21** | Huguenots Nonenque | ✅ fenêtre 1560-1595 datée | § 5.1, § 14.3 | Date précise (1567 ou 1574) à confirmer Couderc-Rigal + Bourgeois & Douzou |
+| **#22** | Préhistoire / archéologie | ⚠️ CAG Aveyron (papier ou Persée) | — | *Carte Archéologique de la Gaule* vol. Aveyron (Académie des Inscriptions), oppidum sous Latour |
+| **#23** | Modernisation rurale | ✅ fibre datée Q4 2022 | § 14.6 | Électrification/eau/téléphone aux AD série O |
+| **#24** | Larzac 1971-1981 | 🟡 cadre établi | § 14.7 | Position officielle commune (délibérations) ; participants identifiés (mémoire orale, archives APAL) |
+| **#25** | Bonald (Louis et Maurice) | ✅ généalogie + biographies | § 14.4, § 5.3, § 6.3 | Filiation 1650-1754 et post-1840 dans Bonald 1902 + actes 3 E |
+| **#26** | Architecture château | ⚠️ étude DRAC à demander | — | Étude archéologique formelle (DRAC + AACL) |
+| **#27** | Sociologie 2006-2026 | ✅ synthèse Insee 2022 | § 14.9 | Comparaison fine avec communes voisines (Cornus, Saint-Affrique, La Cavalerie) |
+| **#28** | Plan livre + édition | 📝 hors recherche | — | Décision éditoriale : auto-édition / éditeur régional Privat / Cerf / Loubatières |
+| **#29** | Hôpital Sainte-Magdeleine | ⚠️ source web nulle | — | Bibliographie médiévale spécialisée (hospitalité Saint-Jacques en Rouergue), AD série H |
+
+#### Récap statistique
+
+- ✅ **Documenté (web + écriture aboutie)** : 11 issues — #1, #2, #9, #14, #15, #19, #21, #23, #25, #27, plus partiellement #10/#12/#17/#24 en 🟡 cadrage.
+- 🟡 **Cadré** (sources identifiées, pistes précisées, mais une partie reste à dépouiller) : 4 issues.
+- ⚠️ **À dépouiller en archives ou collecte humaine** : 13 issues.
+- 📝 **Décisions éditoriales** : 1 issue (#28).
+
+> **Couverture web** : 11 issues + 4 cadrées = **52 % de progression sur les 29 issues** sans visite physique des AD ni collecte orale, en une seule campagne du 03/05/2026.
 
 ---
 
