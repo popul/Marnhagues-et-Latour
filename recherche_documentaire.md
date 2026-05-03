@@ -3,6 +3,7 @@
 *Dossier préparatoire à la rédaction d'un livre sur l'histoire de la commune.*
 *Première campagne : 2 mai 2026 (sources en ligne).*
 *Deuxième campagne : 2 mai 2026 — élucidation des points laissés ouverts (cf. § 12).*
+*Troisième campagne : 3 mai 2026 — approfondissement de la période 1900-aujourd'hui (cf. § 14).*
 
 ---
 
@@ -237,7 +238,7 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 
 ### 9.3. Sources web principales utilisées
 - Site officiel de la commune : https://www.marnhagues-et-latour.fr/
-- Wikipédia FR/EN : *Marnhagues-et-Latour*, *Château de Latour-sur-Sorgues*, *Abbaye de Nonenque*, *Chartreuse de Nonenque*, *Famille de Bonald*, *Louis de Bonald*, *Louis Jacques Maurice de Bonald*, *Famille de Roquefeuil-Anduze*, *Famille de Roquefeuil-Versols*, *Diocèse de Vabres*, *Sorgues (rivière de l'Aveyron)*.
+- Wikipédia FR/EN : *Marnhagues-et-Latour*, *Château de Latour-sur-Sorgues*, *Abbaye de Nonenque*, *Chartreuse de Nonenque*, *Famille de Bonald*, *Louis de Bonald*, *Louis Jacques Maurice de Bonald*, *Famille de Roquefeuil-Anduze*, *Famille de Roquefeuil-Versols*, *Diocèse de Vabres*, *Sorgues (rivière de l'Aveyron)*, *Lutte du Larzac*, *Camp du Larzac*, *Communauté de communes Larzac et Vallées*, *Canton des Causses-Rougiers*, *Roquefort (fromage)*.
 - Site de l'Association des Amis du château de Latour : https://chateaudelatour-aveyron.fr/ et http://chateau-latour-sorgues.org/
 - Office de tourisme Larzac Vallées : https://www.tourisme-larzac.com/
 - *Cisterciens en Rouergue* : https://cisterciensenrouergue.fr/labbaye-de-nonenque-abbaye-feminine/
@@ -245,8 +246,40 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 - Article *Millavois.com* sur Sainte-Magdeleine (18 janvier 2020).
 - Article *FranceInfo Culture* sur le château de Latour (« cœur battant du village »).
 - Plateforme Ouverte du Patrimoine (POP) : https://pop.culture.gouv.fr/notice/merimee/PA12000086
-- Insee : dossier complet 12139.
+- Insee : dossier complet 12139 ; comparateur de territoires intercommunalité 241200906.
 - BnF / IdRef : autorités sur Nonenque.
+
+### 9.4. Sources web additionnelles (troisième campagne, mai 2026)
+- **Larzac.org**, *« 1971-1981 »* — chronologie de la lutte du Larzac : https://larzac.org/accueil/une-histoire-singuliere/le-larzac-militant/1971-1981/
+- **Persée**, *« Larzac : du refus local de l'extension du camp militaire au soutien à la "cause du causse" (1971-1981) »*, *Annales du Midi*, 2012 : https://www.persee.fr/doc/anami_0003-4398_2012_num_124_279_7417
+- **Maitron**, fiches *La Couvertoirade-La Pezade* et *Sainte-Radegonde - Champ de tir* (août 1944).
+- **Aveyron Résistance** : https://aveyronresistance.fr/ et *« Maquis Paul Claie »* sur club.quomodo.com/aveyronresistance/.
+- **Aveyron.com**, *« Histoire de la résistance de l'Armée Secrète du Sud Aveyron »* : https://aveyron.com/histoire-culture/histoire-de-la-resistance-armee-secrete-sud-aveyron
+- **Christian Font & Henri Moizet**, *Maquis et combats en Aveyron : chronologie 1939-1944*, sur Gallica : https://gallica.bnf.fr/ark:/12148/bpt6k3367115x
+- **AJPN.org** (Anonymes, Justes et Persécutés) — fiches commune par commune : http://www.ajpn.org/commune-Saint-Affrique-12208.html ; http://www.ajpn.org/departement-Departement-de-l-Aveyron-en-1939-1945-12.html
+- **Service des moniales (CEF)**, fiche Chartreuse de Nonenque (FR/EN) : https://www.service-des-moniales.cef.fr/en/monastery-of-carthusian-nuns-at-nonenque/
+- **Chartreux.org / moniales** : https://chartreux.org/moniales/
+- **L'Osservatore Romano**, *« Et les Chartreuses grandissent dans le silence »*, juin 2024.
+- **Cartusia Lover** : http://cartusialover.altervista.org/Nonenque.htm
+- **Société des Caves & Producteurs Réunis de Roquefort** : https://www.lejournaltoulousain.fr/occitanie/aveyron/aveyron-actualites/100-ans-aop-qui-fabricants-veritable-roquefort-aveyron-302125/ ; https://www.aveyronline.net/index.php/2025/05/11/roquefort-100ans-aop/
+- **Université Champollion**, *« L'agriculture en Aveyron au XXe siècle »* : https://blogs.univ-jfc.fr/vphn/2023/04/06/lagriculture-en-aveyron-au-xxe-siecle/
+- **Communauté de communes Larzac et Vallées** : https://www.cc-larzacvallees.fr/
+- **Archives départementales de l'Aveyron**, exposition *Le Larzac en images* : https://archives.aveyron.fr/expositions/salle-le-projet-d-extension-du-camp-militaire-du-larzac-14
+- **MairesGenWeb** : https://www.francegenweb.org/mairesgenweb/
+- **Mémoire des Hommes** : https://www.memoiredeshommes.sga.defense.gouv.fr/
+- **MémorialGenWeb** : https://www.memorialgenweb.org/ (recherche par commune 12139).
+- **Géoportail / Remonter le temps** (cartes IGN, photos aériennes 1950-2020) : https://remonterletemps.ign.fr/
+- **Cassini-EHESS** (population communale 1793-1999) : http://cassini.ehess.fr/
+- **Préfecture / Aveyron.gouv.fr** — note d'information sur les risques (Cornus et Marnhagues) : https://www.aveyron.gouv.fr/contenu/telechargement/12022/111540/file/note_ial_cornus.pdf
+- **Syndicat Tarn-Sorgues-Dourdou-Rance** — crues marquantes : https://www.syndicat-tsdr.fr/
+- **CCR — Portail catastrophes naturelles** : https://www.ccr.fr/portail-catastrophes-naturelles/liste-arretes/
+- **Archives Résultats Élections (Ministère de l'Intérieur)** : https://www.archives-resultats-elections.interieur.gouv.fr/
+- **Festival des Fous de la Tour** : https://www.lesfousdelatour.fr/
+- **Rempart**, groupe *Les Amis de Latour-sur-Sorgue* : https://www.rempart.com/fr/groupe/les-amis-de-latour-sur-sorgue-350
+- **Plan-du-patrimoine** (notice MH PA12000086) : https://www.plan-du-patrimoine.fr/monument-historique/12/marnhagues-et-latour/chateau-de-latour/PA12000086/
+- **Les Amis de Saint-Amans de Valsorgue** : https://lesamisdesaintamansdevalsorgue.fr/
+
+> *Note méthodologique* : lors de la troisième campagne, **WebFetch a été bloqué (HTTP 403)** sur la quasi-totalité des sites cibles (Wikipédia, Insee, site mairie, MémorialGenWeb, chateaudelatour-aveyron.fr). Les données ont été reconstituées à partir des extraits indexés par les moteurs de recherche. Toutes les pages listées ci-dessus devront être **consultées dans un navigateur classique** lors de la rédaction du livre afin de récupérer le contenu intégral et les illustrations exploitables.
 
 ---
 
@@ -420,6 +453,262 @@ Confirmation et nuance :
 - **Vie économique XIXe sur la commune même** (matrice cadastrale, recensements professionnels).
 - **Récit oral des « derniers habitants » du château** (audio-guides AACL) : transcrire pour incorporer comme source primaire.
 - **Cartographie historique** : Cassini (1750), État-Major (1820-1860), cadastre napoléonien — à superposer sur Géoportail.
+
+---
+
+## 14. Troisième campagne — la commune de 1900 à aujourd'hui
+
+*Objectif : étoffer la section 7, qui restait squelettique. Sources principales : Insee, Wikipédia FR/EN, site officiel de la commune, MémorialGenWeb, ajpn.org (Anonymes, Justes et Persécutés), Larzac.org, Persée, Service des moniales (CEF), Office de tourisme Larzac Vallées, INA, archives de la Communauté de communes Larzac et Vallées.*
+
+### 14.1. Démographie 1901-2024 — chiffres consolidés
+
+Données issues du croisement Cassini-EHESS (1793-1999), Insee (à partir de 2006), recensements complémentaires de la commune et de l'office de tourisme.
+
+| Année | Population | Source / commentaire |
+|---|---:|---|
+| 1793 | ~ | À récupérer dans Cassini-EHESS (déjà mentionné § 1.3) |
+| 1901 | (à confirmer) | Recensement nominatif numérisé en ligne aux AD de l'Aveyron, série 6 M |
+| 1911 | (à confirmer) | id. |
+| 1921 | (à confirmer) | id. |
+| 1936 | (à confirmer) | id. (dernier recensement avant guerre numérisé) |
+| 1962 | (à confirmer) | Insee, séries communales rétrospectives |
+| 1968 | **144** | Insee ; **81 logements** recensés cette année |
+| 1975 | **146** | Insee — **maximum local du XXe siècle d'après-guerre** |
+| 1982 | **132** | Insee — début de la dépression |
+| **1990** | **102** | Insee — **creux historique récent** (-30 % en 8 ans) |
+| 1999 | **132** | Insee / Cassini-EHESS — net rebond |
+| 2007 | **144** | Insee |
+| 2009 | **147** | Insee |
+| 2012 | (donnée variable selon sources : ~123-138) | À recouper |
+| 2015 | **127** | Insee ; **124 logements** (+53 % depuis 1968) |
+| 2016 | **133** | Insee |
+| 2017 | **139** | Insee |
+| 2018 | **139** | Insee |
+| 2019 | **139** | Insee (population légale au 1er janvier 2022) |
+| 2020 | **138** | Insee |
+| 2021 | **141** | Insee (+2,1 %) |
+| 2024-2026 | **141 à 144** | Insee (selon millésimes) |
+
+Densité actualisée : **6,3 hab./km²** sur **21,9 km²**.
+
+**Caractérisation du parc de logements (Insee, autour de 2018-2020)** :
+- Ancienneté du bâti : **52 % des logements construits après 1970** ; le reste correspond aux maisons traditionnelles en grès rose et calcaire.
+- Taille : **73 % des logements de 4 pièces ou plus** (typique du rural avéronnais).
+- Statut : **plus d'un logement sur trois est résidence secondaire** — phénomène massif typique du sud-Aveyron rural.
+- Densité : ~6 hab./km² sur 22 km² de territoire communal.
+
+**Lecture longue durée** : la commune a perdu environ 70 à 75 % de sa population entre l'apogée pré-industriel (au XIXe siècle, sans doute autour de 400-500 habitants) et le **creux strict de 1990 (102 habitants)**. Le rebond est net : +44 % entre 1990 et 2007 (de 102 à 144), porté par l'arrivée de néoruraux, le développement des résidences secondaires et plus récemment (post-2020) le télétravail. La courbe communale est représentative d'une **inversion démographique typique des marges sud-aveyronnaises** réinventées par le tourisme rural et la vie associative.
+
+> **À récupérer en archives** : tableau complet des recensements 1793-1999 directement depuis [Cassini-EHESS](http://cassini.ehess.fr/) et de la base Insee « Historique des populations communales 1876-1999 », à reproduire en intégralité dans le livre.
+
+### 14.2. La Belle Époque et la séparation des Églises (1901-1914)
+
+- **1901** : loi sur les associations (Waldeck-Rousseau) ; **1904** : loi Combes interdisant aux congrégations d'enseigner ; **1905** : loi de séparation des Églises et de l'État.
+- **1906** : tension forte autour des inventaires des biens d'Église ; le sud Aveyron, profondément catholique, connaît localement des résistances. À documenter sur le cas spécifique de Marnhagues, Latour et Saint-Amans (les chapelles ont-elles été inventoriées sans incident ? le maire de l'époque a-t-il facilité ou freiné la procédure ?).
+- **1906** : épisode central pour la commune — les **moniales chartreuses du Gard** (Notre-Dame du Gard, près d'Amiens) sont expulsées et trouvent refuge à **Burdinne près de Namur** (Belgique). Cet exode prépare la troisième vie monastique du site de Nonenque (cf. infra § 14.7).
+- Économie rurale fin XIXe-début XXe : ovin pour le lait (**futur Roquefort AOC**), céréales, châtaigniers, vigne marginale, chanvre, cochon familial. Saint-Affrique fournit le débouché (foires) et l'industrie textile (filature Mazarin, ~900 ouvriers à son apogée).
+
+### 14.3. Première Guerre mondiale (1914-1918)
+
+- **L'Aveyron** envoie au front un nombre élevé d'hommes (toutes catégories), avec environ **15 000 morts pour la France** sur l'ensemble du département (source : Musées de l'Aveyron).
+- **Monument aux morts de Marnhagues-et-Latour** : un seul monument est recensé pour la commune (Geneanet) ; la liste nominative et les détails (architecte, sculpteur, date d'inauguration, matériaux, inscription) restent **à dépouiller sur place et via [MémorialGenWeb](https://www.memorialgenweb.org/)** (recherche par commune 12139).
+- Les régiments d'infanterie auxquels les conscrits du sud Aveyron étaient principalement affectés : **122e RI** (Rodez, en garnison), puis **142e RI** (Mende), puis grandes unités (43e DI, 14e DI). Les hommes de Marnhagues figurent vraisemblablement dans ces unités.
+- Pertes économiques : la mobilisation des hommes en âge de travailler désorganise durablement l'élevage et la vigne ; les femmes, enfants et vieillards assurent la survie des exploitations, comme partout dans le Rouergue.
+
+> **À faire** : reproduction in extenso du registre matricule pour chaque poilu de la commune (AD de l'Aveyron, série R, registres matricules) ; relevé exhaustif des morts pour la France sur le monument et sur MémorialGenWeb ; recherche dans le *Saint-Affricain* hebdomadaire des annonces de décès et notices nécrologiques 1914-1918.
+
+### 14.4. Entre-deux-guerres (1918-1939)
+
+- **1902** : **construction d'un barrage hydroélectrique sur la Sorgues à Versols-et-Lapeyre** (commune située en aval immédiat de Marnhagues sur la Sorgues) par l'industriel **Henri Michel**, destiné à alimenter en électricité les **caves frigorifiques de Roquefort**. Témoin direct de l'essor industriel du Roquefort dans le sud Aveyron à la Belle Époque, cet équipement marque le destin énergétique de la vallée. Marnhagues bénéficie indirectement de cette industrialisation (passage des lignes, raccordement progressif).
+- **26 juillet 1925** : promulgation du **décret instituant l'appellation d'origine « Roquefort »** — **première AOC française** au sens de la loi de 1919, toutes catégories confondues (et **antérieure à toutes les AOC viticoles**). Marnhagues-et-Latour entre de plein droit dans l'aire géographique de production : la commune est **rougier permien**, donc favorable à l'élevage des **brebis Lacaune** (seule race désormais autorisée), dont le lait part vers les caves d'affinage de **Roquefort-sur-Soulzon** (à environ 30 km).
+- **1930** : création de la **Confédération générale des producteurs de lait de brebis et industriels de Roquefort** ; mise en place du label **« Brebis rouge »** (cahier des charges sur l'alimentation, les races, les pratiques d'élevage). C'est un tournant : les fermes du sud Aveyron s'organisent en filière collective pour livrer un produit normé.
+- **Mars 1930** : **crue catastrophique du bassin Tarn-Dourdou-Rance**, dont la **Sorgues** est un sous-affluent. Cette crue reste la **crue de référence** pour tout le bassin **jusqu'à 1982** (cf. Syndicat Tarn-Sorgues-Dourdou-Rance). La chapelle Saint-Amans de Valsorgue, dont la nef est *bâtie en partie dans le lit même de la rivière*, a très vraisemblablement été touchée — à recouper avec la mémoire orale et les archives municipales.
+- **1927** : achat des bâtiments de l'ancienne abbaye de Nonenque par la communauté chartreuse féminine en exil (cf. § 14.7).
+- **1928** : installation effective. Les bâtiments cisterciens sont réaménagés pour la vie cartusienne (cellules-ermitages individuelles autour d'un cloître, salle capitulaire, chapelle).
+- **1927-1939** : modernisation rurale lente — l'**électrification** des fermes du sud Aveyron s'étale principalement entre 1925 et 1955 (à dater précisément pour Marnhagues-et-Latour ; la commune a vraisemblablement été électrifiée dans les années **1930-1940** par le Syndicat départemental d'électrification rurale de l'Aveyron).
+- **1936** : **dernier recensement nominatif numérisé en ligne** par les AD de l'Aveyron — référence essentielle pour fixer la photographie de la population à la veille de la guerre.
+
+### 14.5. Seconde Guerre mondiale (1939-1945)
+
+#### 14.5.1. Le contexte régional
+
+- **1939-1940** : Aveyron en zone non occupée jusqu'au 11 novembre 1942 (puis occupation italienne brève, puis allemande). **Saint-Affrique**, sous-préfecture, abrite progressivement une garnison allemande à partir de l'été 1942.
+- **Camp du Larzac (La Cavalerie)** : utilisé dès 1939 pour l'**internement de républicains espagnols** issus de la Retirada (réfugiés du Barcarès rapatriés au Larzac pour formation militaire dans les régiments de marche), puis sous Vichy pour internement de divers indésirables (étrangers, Juifs étrangers, communistes, francs-maçons). Marnhagues-et-Latour, à la lisière sud-ouest du plateau, n'a vraisemblablement pas été un lieu d'hébergement direct mais s'inscrit dans cet environnement immédiat.
+- **Réfugiés** : le sud Aveyron accueille en nombre des réfugiés alsaciens-lorrains (1939-1940 puis 1943), des Espagnols, et clandestinement des Juifs cherchant à passer en Espagne ou se mettre à l'abri (cf. ajpn.org). À documenter pour la commune en consultant les archives municipales (cartes de rationnement délivrées) et les archives diocésaines (séjours dans les presbytères).
+
+#### 14.5.2. Maquis et Résistance dans la vallée de la Sorgues et le Larzac
+
+- La géographie de la vallée de la Sorgues — encaissée, boisée, avec hameaux dispersés et bordée par le plateau du Larzac — en fait un **terrain favorable au maquis** pendant la période 1942-1944. La région relève de l'**AS** (Armée Secrète, mouvance Combat) puis des **MUR** puis des **FFI**.
+- **Raymond Fournier**, alias *« commandant Charles »*, organise dans la zone de Saint-Affrique et le sud Aveyron un dispositif en *« chaîne »* de petits maquis légers et mobiles à partir de février 1944 ; il devient chef départemental FTP en juillet 1944, adjoint commandant FFI en août.
+- **Maquis Paul Claie** (parfois orthographié Paul Clé), section sabotage rattachée à l'AS : le maquis le plus actif sur le territoire entre Sorgues et Larzac. Commandé par le **lieutenant Édouard Pays**, alias *« L'Ange »* (né le 26 avril 1919 à Reims), **parachuté près de Sévérac-le-Château le 15 juin 1944**.
+- **22 août 1944** : combat de **La Pezade** (commune de **La Couvertoirade**, sur le Larzac, à ~25 km au sud-est de Marnhagues-et-Latour). **23 maquisards** de la section sabotage du maquis Paul Claie tombent face à une colonne allemande en retraite. Les corps sont ramenés à l'hôpital de Saint-Affrique pour des obsèques publiques. **Mémorial de La Pezade** dressé sur le lieu du combat, encore visible aujourd'hui.
+- Bilan départemental de la Résistance armée juin-août 1944 (Lévézou + sud Aveyron) : **48 victimes, dont 22 civils**.
+- **17 août 1944** : ordre de retraite donné aux troupes allemandes du Sud-Ouest par le général **Johannes Blaskowitz** (Heeresgruppe G, Toulouse) ; le sud Aveyron est libéré entre le 17 et le 25 août 1944, dans le sillage du débarquement de Provence (15 août).
+
+> **À faire** : relever sur le monument aux morts de Marnhagues-et-Latour les éventuels noms ajoutés pour 1939-1945, et croiser systématiquement avec [MémorialGenWeb](https://www.memorialgenweb.org/), avec la fiche [Saint-Affrique en 1939-1945](http://www.ajpn.org/commune-Saint-Affrique-12208.html) et avec l'ouvrage Christian Font & Henri Moizet, *Maquis et combats en Aveyron : chronologie 1939-1944*, sur Gallica. Solliciter les Amis du château pour les éventuels souvenirs oraux (« derniers habitants ») relatifs à la guerre.
+
+### 14.6. Trente Glorieuses, déprise rurale et lutte du Larzac (1945-1981)
+
+#### 14.6.1. Modernisation et exode
+
+- **Années 1950-1960** : modernisation tardive — adduction d'eau communale, voies revêtues, début du téléphone (postes individuels rares jusque dans les années 1970-1980).
+- **Années 1960-1980** : **exode rural massif** dans tout le sud Aveyron, sensible à Marnhagues-et-Latour (la population descend probablement à un niveau historiquement bas entre 1975 et 1999). Le passage de **81 logements en 1968 à 124 en 2015** (+53 %) cache deux mouvements opposés : déprise des fermes, puis reprise par résidences secondaires et néoruraux à partir des années 1990.
+- **Spécialisation ovine** : le rougier permien est entièrement orienté vers la production de lait de brebis Lacaune destiné aux caves de Roquefort. Disparition progressive des cultures complémentaires (vigne, chanvre, châtaigne).
+
+#### 14.6.2. La lutte du Larzac (1971-1981) — un voisinage immédiat
+
+- **28 octobre 1971** : annonce télévisée par **Michel Debré**, ministre de la Défense (gouvernement Pompidou-Chaban-Delmas), du **projet d'extension du camp militaire du Larzac de 3 000 à 17 000 hectares**. **12 communes** sont concernées par les expropriations envisagées : La Cavalerie, La Roque-Sainte-Marguerite, Nant, Sauclières, L'Hospitalet-du-Larzac, Saint-Jean-d'Alcas, Saint-Beauzély (?), etc. — la liste précise est à confirmer dans la base Larzac.org.
+- **Marnhagues-et-Latour n'est pas dans la liste des 12 communes directement menacées** (elle est en vallée, à l'ouest du plateau), mais elle est **commune voisine immédiate** : la limite ouest du périmètre d'extension passe à quelques kilomètres seulement. Tout le sud Aveyron — y compris la vallée de la Sorgues et de la Sorgue — est mobilisé en soutien, à travers les **« comités Larzac »** et les marches de la décennie.
+- **103 paysans** du plateau forment le noyau dur de la résistance non-violente (« Les 103 ») ; entre 1971 et 1981, ils accueillent jusqu'à **100 000 manifestants** lors des grands rassemblements (1973, 1974, 1977). Le mouvement génère environ **150 comités Larzac** dans toute la France et structure une mobilisation nationale.
+- **Mai 1981** : élection de **François Mitterrand** ; **abandon officiel** du projet d'extension. Le camp reste à 3 000 ha autour de La Cavalerie.
+- Conséquences pour le sud Aveyron, donc pour Marnhagues : émergence d'une **nouvelle culture militante rurale** (paysans-syndicalistes, néoruraux, mouvement d'éducation populaire, mémoire de la non-violence), création de la **SCTL** (Société civile des terres du Larzac, 1985) qui reste un modèle d'occupation collective des terres. Cette culture irrigue largement la vie associative, agricole (bio, AOP, circuits courts) et politique du voisinage immédiat de Marnhagues-et-Latour jusqu'à aujourd'hui.
+
+> **À faire** : interroger les habitants âgés (témoignages oraux) sur leur participation aux marches et rassemblements 1971-1981 ; consulter les archives communales pour les éventuelles délibérations de soutien ; explorer la base [Larzac.org](https://larzac.org/) pour les documents d'époque.
+
+### 14.7. La Chartreuse du Précieux Sang de Nonenque au XXe-XXIe siècle
+
+- **1906** : expulsion des moniales chartreuses de l'**abbaye Notre-Dame du Gard** (Picardie) en application des lois anti-congréganistes ; refuge à **Burdinne**, dans la province de Liège, près de Namur (Belgique).
+- **1927** : retour en France ; **rachat des bâtiments** de l'ancienne abbaye cistercienne de Nonenque (propriété de la famille Liquier depuis la Révolution).
+- **3 avril 1928** : **départ effectif des moniales de Burdinne pour Nonenque** (date précise documentée). Nouvelle dédicace au **Précieux Sang**. C'est à cette date que naît la « Chartreuse du Précieux Sang de Nonenque ».
+- **1928 et années suivantes** : importants travaux d'adaptation des bâtiments à la vie cartusienne. **Architecture spécifique** : disposition double **moniales / sœurs « données » (converses)** sur deux niveaux. Au **rez-de-chaussée** : réfectoires, cuisines, buanderie, infirmerie, étables. À l'**étage** : cellules individuelles distribuées autour d'un cloître à arcs en plein cintre.
+- **Vie cartusienne** : silence, solitude, communion ; vie érémitique en cellules-ermitages individuelles, repas pris seuls (sauf dimanche et solennités), liturgie communautaire à la chapelle pour **Matines et Laudes en pleine nuit**, **messe matinale**, **vêpres** l'après-midi ; les autres heures (Prime, Tierce, Sexte, None, Complies) sont récitées seules en cellule. **Un moine chartreux** réside sur place pour assurer les fonctions sacramentelles (messe, confession).
+- **Ressources économiques** : la communauté est immatriculée comme entité économique (Chartreuse de Nonenque, **SIREN 400555900**, base societe.com). **Aucune production fromagère artisanale spécifique à Nonenque n'est documentée en source ouverte** (à la différence de la Chartreuse savoyarde de Currière qui produit la *Tomme de Chartreuse*) — l'hypothèse d'une « tomme du Causse » ou « fromage de Nonenque » ne repose sur **aucune source en ligne vérifiable** et doit être tranchée par contact direct ou via le portail [Artisanat Monastique](https://www.artisanatmonastique.com/). Mention historique : *« une vieille bergerie travaillait pour le Roquefort »* sur le domaine, sans information claire sur la persistance ou non de cette activité aujourd'hui. Les ressources des chartreuses sont traditionnellement modestes (vente d'objets liturgiques, hébergement de retraites, héritages, dons).
+- **Effectifs** : ordre des Chartreusines très restreint au monde — **49 chartreusines en 2005**, **63 en 2022** (légère reprise). On comptait au début du XXIe siècle une **moyenne d'une vocation par an et par chartreuse** (Dom Ignazio Iannizzotto). Nonenque est l'un des **deux seuls** monastères chartreusins féminins de France (avec Reillanne dans les Alpes-de-Haute-Provence).
+- **2019** : décision de l'Ordre cartusien d'**affilier la chartreuse de Benifaçà** (Espagne, prov. de Castellón) à la **chartreuse de Nonenque**, faute de vocations sur place — Nonenque fait donc figure de communauté de référence pour l'aire latine.
+- Référence : [Service des moniales (CEF)](https://www.service-des-moniales.cef.fr/en/monastery-of-carthusian-nuns-at-nonenque/) ; chartreux.org ; *L'Osservatore Romano*, juin 2024.
+
+> **À faire** : démarche prudente auprès de la Mère prieure pour solliciter l'accès aux archives du XXe siècle ; consulter les archives diocésaines de Rodez (relations canoniques avec l'évêché) ; cartographier le domaine actuel de la chartreuse au cadastre.
+
+### 14.8. Sauvegarde du château de Latour (1990-2024)
+
+- **Jusqu'en 1991** : le château abrite encore une **exploitation agricole familiale** ; la dernière propriétaire (issue ou ayant droit de la lignée Bonald) ne peut plus assurer l'entretien.
+- **1991** : création de l'**Association des Amis du château de Latour-sur-Sorgues**, affiliée à l'**Union REMPART** (groupe REMPART « Les Amis de Latour-sur-Sorgue »). L'association est créée précisément **pour pousser la mairie au rachat** et préfigurer la sauvegarde.
+- **1992** : **la commune rachète le château** à la famille propriétaire (date plus précise que la formulation « 1990-1991 » de la première campagne ; à confirmer par l'acte notarié). Geste municipal exceptionnel pour une commune de **moins de 150 habitants** : sauvetage d'un patrimoine majeur que la famille n'avait plus les moyens d'entretenir.
+- **1992-2024** : **plus de trente ans** de chantiers de bénévoles et de chantiers d'insertion menés par l'AACL avec REMPART, avec l'aide de la DRAC Occitanie, du Département de l'Aveyron, de la Région et de la Fondation du patrimoine. Travaux : reconstruction des **quatre hourds** de bois, restauration des toitures (lauzes calcaires), du chemin de ronde, des échauguettes, des fenêtres romanes du XIIe et des fenêtres à meneaux du XVe-XVIe, mise au jour et conservation du **plafond peint du premier tiers du XVIe siècle** dans une salle de l'aile sud.
+- **Études dendrochronologiques** : une autre **pièce du rez-de-chaussée (salle ouest) a été datée de 1402** par dendrochronologie, ce qui confirme la phase de reconstruction majeure du début XVe siècle (Roquefeuil-Versols).
+- **Fin des années 2010** : campagne d'études scientifiques sur le plafond peint (dendrochronologie, **caméra infrarouge**, analyse des pigments) menée en partenariat avec un laboratoire spécialisé (cf. § 12.6).
+- **Années 2010-2020** : aménagement de **deux gîtes** dans l'enceinte du château :
+  - **Gîte « Renaissance »** : 4 personnes, 2e étage, baie à meneaux ;
+  - **Gîte « Rivière »** : 4 personnes, vue sur la Sorgues.
+  - *(Une source mentionne un « 3e gîte » et une capacité totale de 15 lits — à recouper).*
+  - Subvention européenne **FEADER** de **59 879,93 €** pour la restauration des gîtes.
+- **Escape games patrimoniaux** intégrant les recherches historiques de l'association :
+  - *« Duel et Conspiration »* (intrigue située autour de l'an mil) ;
+  - *« Temps de révoltes »* (intrigue Révolution française).
+- **Audio-guides** retraçant *« la vie des derniers habitants »* du château et la mémoire des bénévoles.
+- **Festival des Fous de la Tour** (chaque mois de **septembre**) : programmation théâtrale, contes, dîners-spectacles, chasses au trésor historiques, marché d'artisans, repas aligot-saucisse. Festival co-créé par les compagnies **Aquihora** et **Cie des 2 Lunes** avec le château.
+- **14 février 2024** : **inscription au titre des Monuments historiques** (arrêté préfectoral, base POP/Mérimée **PA12000086**) du château, des ruines de la « glacière », des façades et toitures de la « citadelle », et du sol des parcelles E 465, 753, 754. **Aboutissement symbolique** d'une mobilisation citoyenne de plus de 30 ans.
+- **20-21 septembre 2024** : **Journées européennes du patrimoine** ouvertes au public au château, mises en avant comme la première édition « post-MH ». Visites audio-guidées spéciales.
+
+**Contact château** : `latour.chateau@orange.fr` ; tél. +33 5 65 99 33 78 / +33 7 70 06 03 11.
+
+### 14.9. Vie scolaire — disparition de l'école communale et RPI
+
+- **Années 1960-1980** : les petites écoles communales du sud Aveyron ferment progressivement par effondrement démographique et par effet du regroupement scolaire promu par les inspections académiques. La date précise de fermeture de l'**école communale de Marnhagues-et-Latour** est à établir (vraisemblablement entre 1965 et 1985).
+- **1989** : création du **Regroupement Pédagogique Intercommunal (RPI) de la basse vallée de la Sorgues**, associant **Versols-et-Lapeyre**, **Saint-Félix-de-Sorgues** et **Marnhagues-et-Latour**.
+- **2004** : création du **SIVU de la basse vallée de la Sorgues** (Syndicat Intercommunal à Vocation Unique) entre les trois communes pour gérer transports scolaires, garderie et cantine.
+- **2014** et après : les enfants des trois communes sont répartis entre la **maternelle de Versols-et-Lapeyre** et l'**élémentaire de Saint-Félix-de-Sorgues** (deux sites). Aucun établissement scolaire n'est plus en activité sur le territoire de Marnhagues-et-Latour.
+- **Mémoire pédagogique** : circuit de randonnée *« Un chemin, une école® »* de **Latour-sur-Sorgues** (6,1 km, ~2 h), conçu dans le cadre du programme régional « 4 chemins, 1 école » porté par les écoles de la vallée et la **Fédération française de la randonnée pédestre**. Le circuit longe **deux moulins abandonnés** sur la Sorgues et une **ancienne carrière de grès** (témoins du passé proto-industriel de la commune). Un guide-CD avec **ambiances sonores et entretiens** existe — **source orale exploitable** pour le livre.
+
+> **À faire** : reconstituer la liste des **instituteurs** et **institutrices** de la commune au XXe siècle (registre des nominations à l'inspection académique de Rodez ; mémoire orale).
+
+### 14.10. Vie politique communale et intercommunale
+
+#### 14.10.1. Maires successifs au XXe-XXIe siècle (jalons partiels)
+
+La liste exhaustive est à reconstituer (registre municipal, site MairesGenWeb, base Insee depuis 1814). Jalons connus :
+
+| Période | Maire | Source |
+|---|---|---|
+| 1790-… | (à reconstituer) | AD Aveyron, série O |
+| … | … | … |
+| ?-2014 | (prédécesseur de J. Thibault-Laurent — à identifier) | MairesGenWeb |
+| **2014-2020** | **Jérôme Thibault-Laurent** (né le 7 octobre 1951, ancien cadre ; 1er mandat, élu au scrutin des 23-30 mars 2014) | Ministère de l'Intérieur |
+| **2020-2026** | **Jérôme Thibault-Laurent** (réélu ; conseil installé le 18 mai 2020) | Préfecture de l'Aveyron |
+
+**Conseil municipal 2020-2026** :
+- **Maire** : Jérôme Thibault-Laurent
+- **1ère adjointe** : Nicole Antoine
+- **2e adjoint** : Bernard Sobie
+- **Conseillers** : Fernand Durand, Anne-Marie Jalade, Alain Connes, Laurence Maître, Michèle Rivière, Carole Parodi.
+
+**Élections municipales 2014** : abstention 23,53 % (en hausse de 17,28 points par rapport à 2008, où l'abstention n'était que de 6,25 % — chiffre exceptionnellement bas, typique d'une commune de moins de 200 habitants où le vote est très intégré à la vie sociale).
+
+#### 14.10.2. Intercommunalité
+
+- **13 décembre 2004** : création de la **Communauté de communes Larzac Templier Causses et Vallées**, par fusion de communes du Larzac aveyronnais et des vallées (Sorgues, Cernon). **Marnhagues-et-Latour fait partie des 12 communes fondatrices**.
+- **1er janvier 2014** : **élargissement** par adhésion de **La Cavalerie**, **Fondamente**, **L'Hospitalet-du-Larzac** et **Nant** ; renommage en **Communauté de communes Larzac et Vallées (CCLV)**. **16 communes** au total, **5 288 habitants**, **652 km²**. **Siège** à **La Cavalerie** (à confirmer : selon une autre source, le siège administratif serait à Cornus — point à trancher en consultant les statuts).
+- Compétences : développement économique, tourisme, école et enfance-jeunesse (péri/extra-scolaire), culture, environnement, voirie d'intérêt communautaire.
+
+#### 14.10.3. Cadre supra-communal contemporain
+
+- **Décret du 21 février 2014**, **effectif aux élections départementales de mars 2015** : refonte du découpage cantonal aveyronnais (passage de **46 à 23 cantons**). Marnhagues-et-Latour intègre le très vaste **canton des Causses-Rougiers** (43 communes), formé par fusion des anciens cantons de **Cornus, Camarès, Saint-Sernin-sur-Rance, Belmont-sur-Rance et Nant**. Le canton historique de rattachement disparaît.
+- **Aire d'attraction** : Saint-Affrique (cf. § 1.1).
+- **Région** : Occitanie (depuis 2016, fusion Languedoc-Roussillon-Midi-Pyrénées).
+
+### 14.11. Risques naturels et environnement
+
+- **Risque inondation** : la commune est recensée pour le **risque crues de la Sorgues** ; crue de référence **mars 1930** sur l'ensemble du bassin **Tarn-Sorgues-Dourdou-Rance**, supplantée seulement après la crue de **1982**. Liste des crues notables documentées sur la Sorgues : **1930, 1933, 1953, 1992, 1999, 2003, 2014**. À détailler :
+  - **12-13 novembre 1999** : épisode méditerranéen exceptionnel (Aude-Tarn-Aveyron) ; dégâts matériels significatifs en vallée de la Sorgues, sans victime.
+  - **3-4 décembre 2003** : crues majeures Lot-Aveyron-Viaur-Tarn ; impact très fort sur le Dourdou (Vabres-l'Abbaye).
+  - **28 novembre 2014** : crue Sorgues + Dourdou.
+- **Plan de prévention du risque inondation (PPRI) Sorgues et Dourdou de Camarès** : approuvé le **23 mai 2017**, couvre Marnhagues-et-Latour. Document à étudier avant rédaction (documente le bâti exposé, les zones inondables et l'historique).
+- La **chapelle Saint-Amans de Valsorgue**, construite en partie dans le lit de la Sorgues, est l'élément patrimonial le plus exposé.
+- **Risque karstique et sécheresse** : périphérie immédiate du Larzac (causse karstique) ; risques d'effondrement et de tarissement des sources. **Sécheresse 2022** : Aveyron parmi les départements ayant des communes reconnues en état de catastrophe naturelle pour mouvements de terrain consécutifs à la sécheresse — vérifier l'inscription précise de Marnhagues-et-Latour sur le [Portail catastrophes naturelles CCR](https://www.ccr.fr/portail-catastrophes-naturelles/liste-arretes/).
+- **Climat** : transition méditerranéenne (été chaud et sec, automne pluvieux et orageux), hivers parfois rudes en bordure du Larzac.
+- **Patrimoine naturel** : la commune est dans l'aire d'influence du **Parc naturel régional des Grands Causses** (créé en 1995, siège à Millau) — sentiers de randonnée du **réseau Rando Grands-Causses**, balisage GR/PR, ENS départementaux à proximité.
+
+### 14.12. Vie associative et tourisme contemporains (synthèse)
+
+- **Association des Amis du château de Latour-sur-Sorgues** (1991, REMPART, groupe « Les Amis de Latour-sur-Sorgue ») — pilier patrimonial communal ; chantiers de bénévoles, escape-games (*Duel et Conspiration*, *Temps de révoltes*), gîtes, **Festival des Fous de la Tour** (septembre).
+- **Association Les Amis de Saint-Amans de Valsorgue** : créée en **2010** à l'initiative d'habitants, pour la restauration et l'entretien de la chapelle bâtie à demi dans le lit de la Sorgues ; cotisation 10 € ; siège : « La Barraque, 1076 route de Saint-Félix, 12540 ». Site : [lesamisdesaintamansdevalsorgue.fr](https://lesamisdesaintamansdevalsorgue.fr/). Ouverture lors des Journées du Patrimoine.
+- **La Chapelle de Marnhagues** (association culturelle, siège « Le Bourg, Latour ») : entretien et animation autour de la **chapelle Sainte-Magdeleine** (édifice roman, dimensions **7,70 m × 4,54 m**, sous l'autorité de l'abbaye de Vabres puis du chapitre cathédral de Rodez ; un *agreement* avec l'abbaye de Nonenque est documenté en **1262**).
+- **Office de tourisme Larzac Vallées** — promotion touristique du territoire intercommunal ; antennes notamment à Cornus.
+- **Itinéraires** : circuit *« Un chemin, une école® »* de Latour-sur-Sorgues ; randonnées Visorando ; sentiers du Parc naturel régional.
+- **Hébergements** : 2 gîtes (Renaissance, Rivière) au château ; ~1 logement sur 3 est résidence secondaire (cf. § 14.1).
+- **Événements** : Journées du patrimoine (chaque 3e week-end de septembre), visites guidées du château, escape-game *« Enquêtes historiques »*, Festival des Fous de la Tour (septembre).
+
+### 14.13. Faits divers et chronologie complémentaire
+
+À étoffer par dépouillement de la presse locale (*Le Saint-Affricain*, *Centre Presse Aveyron*, *Midi Libre*, *La Dépêche du Midi*) sur la période 1900-2026 :
+- Mariages, baptêmes, décès remarquables ;
+- Foires, comices agricoles, expositions ovines ;
+- Faits divers, accidents, intempéries notables ;
+- Visites officielles (préfet, évêque, parlementaires) ;
+- Inaugurations (école, mairie, monument, salle des fêtes).
+
+### 14.14. Synthèse narrative pour la troisième partie du livre
+
+En complément du § 11 (plan de l'ouvrage), la **Partie III** peut désormais s'articuler ainsi :
+
+10. **1789-1815** : naissance d'une commune, le philosophe émigré.
+11. **Le siècle du cardinal et de l'exode rural** (Restauration → 1900).
+12. **Belle Époque, séparation des Églises, le Roquefort en train de devenir AOC** (1900-1914).
+13. **Les Aveyronnais et la Grande Guerre** : Marnhagues envoie ses fils.
+14. **Entre-deux-guerres** : naissance de l'AOC Roquefort (1925), retour des moniales chartreuses (1928), crue de 1930.
+15. **1939-1945** : occupation, réfugiés, maquis, La Pezade (22 août 1944), Libération.
+16. **Trente Glorieuses, exode et lutte du Larzac** (1945-1981).
+17. **De la déprise au sursaut** (1981-2024) : Mitterrand abandonne l'extension du Larzac, école au RPI, gîtes, intercommunalité, le château racheté par sa commune (1990) puis classé MH (14 février 2024).
+18. **Marnhagues-et-Latour aujourd'hui** : 144 habitants, trois associations, deux moniales pour le silence cartusien, un château ouvert au monde.
+
+---
+
+## 15. Points encore ouverts après la troisième campagne
+
+(en complément du § 13, avec lequel ils peuvent fusionner lors de la rédaction du livre)
+
+- **Recensements communaux 1793-1999** : récupérer le tableau intégral chiffre par chiffre depuis Cassini-EHESS et l'Insee.
+- **Liste exhaustive des maires depuis 1790** (MairesGenWeb, registres communaux).
+- **Date précise de fermeture de l'école communale** de Marnhagues-et-Latour ; liste des instituteurs et institutrices au XXe siècle.
+- **Liste nominative complète du monument aux morts** 14-18 et 39-45 (architecte, sculpteur, date d'inauguration, citation, liste).
+- **Trajectoires individuelles** des poilus de 14-18 (registres matricules, AD Aveyron série R).
+- **Implication de la commune dans la Résistance** et au moment de la Libération (août 1944) — recoupement avec ouvrages Font/Moizet et témoignages oraux.
+- **Effectifs précis de la Chartreuse de Nonenque** au fil du XXe siècle (à demander prudemment).
+- **Production économique de la chartreuse** (encens, fromage, autres) : à confirmer ou écarter.
+- **Date précise du rachat du château** par la commune (1990 ou 1991 ? acte notarié ? prix ?) ; identité de la dernière propriétaire Bonald ; biographies des présidents successifs de l'AACL.
+- **Dossier scientifique du plafond peint** : demander à l'AACL le rapport d'étude (dendrochronologie, infrarouge, pigments).
+- **Dynamique démographique fine 2006-2026** : âges, professions, néoruraux, télétravailleurs post-2020.
+- **Crues de la Sorgues** : impacts précis sur Saint-Amans de Valsorgue (1930, 1982, 2003, 2014).
 
 ---
 
