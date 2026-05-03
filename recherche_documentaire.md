@@ -18,7 +18,7 @@
 - **Code INSEE** : 12139
 - **Code postal** : 12540
 - **Gentilé** (à confirmer en archives, plusieurs graphies circulent) : *Bernagols-et-Latounains*
-- **Maire (2026)** : Jérôme Thibault-Laurent, élu en mai 2020.
+- **Maire (2026)** : **Jérôme Thibault-Laurent**, en fonction depuis 2020 (cf. § 14.10). *Premier mandat 1995-2014, puis Alain Connes 2014-2020, puis Thibault-Laurent à nouveau depuis 2020 (vérifié auprès de la commune).*
 
 ### 1.2. Cadre géographique
 La commune occupe le centre de la **vallée de la Sorgues**, à **425 m d'altitude**, à mi-chemin entre Cornus (sud-est, sur le Larzac) et Saint-Affrique (nord-ouest). Elle se compose de :
@@ -34,14 +34,15 @@ Géologie : zone de contact entre :
 - les **grès du Trias** affleurant au pied du Larzac.
 La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par une importante résurgence karstique (~2 m³/s). Longueur totale : 46,4 km. Affluent du Dourdou de Camarès, donc sous-affluent du Tarn et de la Garonne.
 
-### 1.3. Démographie (à compléter sur archives INSEE)
-- **2016** : 133 habitants
-- **2020** : 138 habitants
-- **2021** : 141 habitants (+2,1 %)
-- **2024-2026** : ~144 habitants
-- Tendance récente : légère reprise démographique (~+1 % depuis 2006), après une longue déprise rurale.
-- Superficie : ~22 km² → densité ~6 hab./km².
-- *À récupérer en archives :* recensements 1793, 1800, 1851, 1872, 1901, 1936, 1962, 1990 (séries Insee « Historique des populations communales » + Statistique générale de France 1800-1925).
+### 1.3. Démographie
+
+> Série complète 1793-2023 reconstituée en § 14.1 (Cassini-EHESS / Wikipédia 1793-1872, Insee 1876-2023). Synthèse ci-dessous.
+
+- **Maximum historique** : **425 habitants en 1886** (apogée rurale du XIXᵉ siècle).
+- **Effondrement XXᵉ** : déprise rurale continue jusqu'à un minimum de **102 habitants en 1990** (-76 % en un siècle).
+- **2023** : **147 habitants** (Insee, recensement 2023). La population municipale est repassée au-dessus du niveau de 2009 après le creux des années 1990.
+- **Tendance récente** : reprise démographique mesurable depuis 2014 (+22 % en 9 ans), liée à l'attractivité néorurale du Larzac et à la patrimonialisation du château de Latour.
+- Superficie : ~22 km² → densité 2023 = **6,7 hab./km²**.
 
 ---
 
@@ -424,3 +425,129 @@ Confirmation et nuance :
 ---
 
 *Document de travail à enrichir au fil des dépouillements. Toute information collectée doit être systématiquement référencée (cote d'archive, page, URL avec date de consultation) pour pouvoir être citée dans l'ouvrage final.*
+
+---
+
+## 14. Annexes — données structurées
+
+> Section dédiée aux **tableaux de référence** auxquels renvoient les chapitres rédactionnels du livre. Chaque sous-section liste sa source primaire et sa date de consultation. À enrichir au fil des dépouillements en archives.
+
+### 14.1. Démographie historique 1793-2023
+
+Reconstitution de la série communale complète en croisant trois sources :
+
+- **Cassini-EHESS** ([cassini.ehess.fr](http://cassini.ehess.fr/)) — recensements 1793 → 1872, repris par Wikipédia ([Marnhagues-et-Latour](https://fr.wikipedia.org/wiki/Marnhagues-et-Latour), § Démographie) ;
+- **Insee — *Historique des populations communales 1876-2023*** ([base-pop-historiques-1876-2023.xlsx](https://www.insee.fr/fr/statistiques/fichier/3698339/base-pop-historiques-1876-2023.xlsx), mise en ligne décembre 2025) — code communal CODGEO **12139**, ligne `Marnhagues-et-Latour` ;
+- **Insee — recensements millésimés** (PMUN 2006-2023, PSDC 1962-1999, PTOT 1876-1954).
+
+| Année | Population | Type | Variation | Source |
+|------:|-----------:|---|---:|---|
+| 1793 | 203 | recensement an II | — | Cassini-EHESS |
+| 1800 | 194 | recensement an VII | -4,4 % | Cassini-EHESS |
+| 1841 | 300 | recensement | +54,6 % (sur 41 ans) | Cassini-EHESS |
+| 1846 | 315 | recensement | +5,0 % | Cassini-EHESS |
+| 1851 | 320 | recensement | +1,6 % | Cassini-EHESS |
+| 1856 | 286 | recensement | -10,6 % | Cassini-EHESS |
+| 1861 | 248 | recensement | -13,3 % | Cassini-EHESS |
+| 1866 | 402 | recensement | +62,1 % | Cassini-EHESS |
+| 1872 | 402 | recensement | 0 % | Cassini-EHESS |
+| 1876 | 398 | population totale | -1,0 % | Insee |
+| 1881 | 372 | population totale | -6,5 % | Insee |
+| 1886 | **425** | population totale | +14,2 % | Insee |
+| 1891 | 404 | population totale | -4,9 % | Insee |
+| 1896 | 331 | population totale | -18,1 % | Insee |
+| 1901 | 294 | population totale | -11,2 % | Insee |
+| 1906 | 295 | population totale | +0,3 % | Insee |
+| 1911 | 278 | population totale | -5,8 % | Insee |
+| 1921 | 201 | population totale | -27,7 % | Insee |
+| 1926 | 176 | population totale | -12,4 % | Insee |
+| 1931 | 247 | population totale | +40,3 % | Insee |
+| 1936 | 230 | population totale | -6,9 % | Insee |
+| 1954 | 155 | population totale | -32,6 % | Insee |
+| 1962 | 128 | sans doubles comptes | -17,4 % | Insee |
+| 1968 | 144 | sans doubles comptes | +12,5 % | Insee |
+| 1975 | 146 | sans doubles comptes | +1,4 % | Insee |
+| 1982 | 132 | sans doubles comptes | -9,6 % | Insee |
+| 1990 | **102** | sans doubles comptes | -22,7 % | Insee |
+| 1999 | 132 | sans doubles comptes | +29,4 % | Insee |
+| 2006 | 142 | population municipale | +7,6 % | Insee |
+| 2007 | 144 | population municipale | +1,4 % | Insee |
+| 2008 | 146 | population municipale | +1,4 % | Insee |
+| 2009 | 147 | population municipale | +0,7 % | Insee |
+| 2010 | 140 | population municipale | -4,8 % | Insee |
+| 2011 | 132 | population municipale | -5,7 % | Insee |
+| 2012 | 125 | population municipale | -5,3 % | Insee |
+| 2013 | 123 | population municipale | -1,6 % | Insee |
+| 2014 | 120 | population municipale | -2,4 % | Insee |
+| 2015 | 127 | population municipale | +5,8 % | Insee |
+| 2016 | 133 | population municipale | +4,7 % | Insee |
+| 2017 | 139 | population municipale | +4,5 % | Insee |
+| 2018 | 139 | population municipale | 0 % | Insee |
+| 2019 | 139 | population municipale | 0 % | Insee |
+| 2020 | 138 | population municipale | -0,7 % | Insee |
+| 2021 | 141 | population municipale | +2,2 % | Insee |
+| 2022 | 144 | population municipale | +2,1 % | Insee |
+| **2023** | **147** | population municipale | +2,1 % | Insee |
+
+#### Lectures
+
+- **Apogée 1886** : 425 habitants. Cohérent avec l'apogée rurale du sud Aveyron avant l'exode rural du XXᵉ siècle (filatures, viticulture, pastoralisme). La forte hausse 1861→1866 (+62 %) doit être recoupée — possiblement un effet d'incorporation de hameaux ou un recensement défaillant en 1861 (à confronter avec les listes nominatives AD série 6 M).
+- **Saignée WWI** : 1911 → 1921 = -28 % (278 → 201), exode rural amplifié par les pertes de la Grande Guerre (cf. § 14.2 monument aux morts à compléter via issue [#3](https://github.com/popul/Marnhagues-et-Latour/issues/3)).
+- **Pic intermédiaire 1931 (+40 %)** : à élucider — afflux temporaire (chantier, occupation Chartreuse, immigration espagnole post-1936 ?). Voir issue [#1](https://github.com/popul/Marnhagues-et-Latour/issues/1) — listes nominatives AD série 6 M.
+- **Minimum historique 1990** : 102 habitants, -75,8 % par rapport à 1886. Reflète la déprise causses-rougiers d'après-guerre + fermeture de l'école communale (cf. issue [#6](https://github.com/popul/Marnhagues-et-Latour/issues/6)).
+- **Reprise post-2014** : +22,5 % en 9 ans (120 → 147), à mettre en regard du néoruralisme post-Larzac et de la patrimonialisation du château racheté par la commune en 1991 (cf. § 7.3).
+
+#### Trous à compléter en archives
+
+Cassini-EHESS donne les recensements **1793, 1800, 1841, 1846, 1851, 1856, 1861, 1866, 1872** mais pas **1806, 1821, 1831, 1836** (Empire et Restauration). Pour ces dates la source primaire est :
+
+- **AD Aveyron, série M** (recensements quinquennaux Empire/Restauration) — non numérisée à ce jour, dépouillement sur place à Rodez ;
+- **Statistique générale de France** (séries 1801-1925) — base disponible sur Gallica BnF, à interroger directement par commune.
+
+#### Listes nominatives 1901-1936
+
+À récupérer aux **AD de l'Aveyron, série 6 M** (recensements nominatifs en ligne, [https://archives.aveyron.fr](https://archives.aveyron.fr/)) — un dépouillement par commune et par année. Livrables prévus : un PDF par année, dans un sous-dossier `archives/recensements/AAAA/`. Chaque ligne nominative donnera : chef de famille, profession, hameau (Latour / Marnhagues / La Roquaubel / écarts), composition du ménage. Permettra notamment d'élucider le pic 1931.
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#1](https://github.com/popul/Marnhagues-et-Latour/issues/1).
+
+### 14.10. Liste des maires depuis 1790
+
+#### 14.10.1. Tableau chronologique
+
+Source primaire : **MairesGenWeb** — fiche commune INSEE 12139, identifiée comme « Archives communales et départementales (06.01.2014) » et complétée depuis. URL : [`https://www.francegenweb.org/mairesgenweb/resultcommune.php?id=25230`](https://www.francegenweb.org/mairesgenweb/resultcommune.php?id=25230).
+
+| Période | Maire | Profession | Source |
+|---|---|---|---|
+| 1793 | Pierre Xavier **DURAND** | *à documenter* | MGW |
+| 1793-1794 | Étienne **COMBES** | *à documenter* | MGW |
+| 1794-1795 | Étienne **CONNAC** | *à documenter* | MGW |
+| 1795-1799 | Étienne **COMBES** *(2ᵉ mandat)* | *à documenter* | MGW |
+| 1799-1800 | Étienne **CONNAC** *(2ᵉ mandat)* | *à documenter* | MGW |
+| 1801-1816 | Jean Pierre **LAUSSEL** | *à documenter* | MGW |
+| 1816-1840 | Étienne **GALTIER** | *à documenter* | MGW |
+| 1840-1865 | François **COMBES** | *à documenter* | MGW |
+| 1866-1870 | Rodolphe **DURAND** | *à documenter* | MGW |
+| 1870-1903 | Pierre **CONNAC** | *à documenter* | MGW |
+| **1903-1995** | **(lacune)** — *aucun maire identifié à ce jour pour 92 ans* | — | — |
+| 1995-2014 | Jérôme **THIBAULT-LAURENT** *(1ᵉʳ mandat)* | ancien cadre | MGW + Wikipédia |
+| 2014-2020 | Alain **CONNES** | *à documenter* | MGW |
+| **2020-en cours** | **Jérôme THIBAULT-LAURENT** *(2ᵉ mandat)* | ancien cadre | MGW + commune |
+
+> ⚠️ **Note de qualité** : la fiche MGW listait au 03/05/2026 une entrée « Sylvain Couly 2026-en cours » qui est erronée — vérification directe auprès de la commune : Jérôme Thibault-Laurent est bien le maire en exercice. À signaler à MGW pour correction.
+
+#### 14.10.2. Lectures
+
+- **Cinq édiles sous la Révolution** (1793-1800) avec deux retours en charge (Combes, Connac) : rotation typique des municipalités rurales sous le Directoire, à mettre en regard de la création de la commune en 1790 (cf. § 6.1) et de la pression révolutionnaire sur le bourg de Latour. Le **premier maire de la commune (1790-1793)** reste à identifier — probablement antérieur à Pierre Xavier Durand qui n'apparaît qu'en 1793.
+- **Quatre dynasties patronymiques** dominent les 110 premières années : **Durand** (1793, 1866-1870), **Combes** (1793-1799, 1840-1865 — les deux mandats Combes totalisent 25 ans au XIXᵉ), **Connac** (1794-1800, 1870-1903 — 35 ans en deux séquences), **Galtier** (1816-1840, 24 ans) et **Laussel** (1801-1816, 15 ans). Ces patronymes correspondent vraisemblablement aux familles de **propriétaires terriens** dont la matrice cadastrale donnera l'assise foncière (cf. issue [#13](https://github.com/popul/Marnhagues-et-Latour/issues/13)).
+- **Pierre Connac** détient le record de longévité avec **33 ans de mandat** (1870-1903), couvrant la IIIᵉ République naissante, l'apogée démographique de 1886, l'instauration de l'école laïque, et probablement la construction du monument aux morts… non : trop tôt, le sien sera inauguré sous le mandat suivant.
+- **Lacune 1903-1995** : 92 ans sans maire identifié dans MairesGenWeb. Cela couvre les deux Guerres mondiales, l'occupation, la Libération, la lutte du Larzac (1971-1981), le rachat communal du château (1991). **Priorité de dépouillement** aux **AD Aveyron, série E-dépôt** (registres de délibérations municipales) et au **panneau d'honneur en mairie** s'il existe. Cf. issues [#5](https://github.com/popul/Marnhagues-et-Latour/issues/5) (vie communale 1939-1945), [#14](https://github.com/popul/Marnhagues-et-Latour/issues/14) (résultats électoraux), [#24](https://github.com/popul/Marnhagues-et-Latour/issues/24) (Larzac).
+- **Mandats 1995-en cours** : la séquence **Thibault-Laurent (1995-2014) → Connes (2014-2020) → Thibault-Laurent (depuis 2020)** est cohérente avec les élections municipales générales. Le retour de Thibault-Laurent en 2020 — rare pour un ancien maire — mérite peut-être un développement narratif dans le livre (continuité familiale ? résultat d'une liste consensus ? cf. issue [#14](https://github.com/popul/Marnhagues-et-Latour/issues/14) sur les résultats électoraux).
+
+#### 14.10.3. À recouper en archives
+
+- **Maire 1790-1793** (acte de naissance de la commune) : registres de délibérations AD Aveyron série E-dépôt 12139, ou AD série L (administrations révolutionnaires).
+- **Trou 1903-1995** : registres municipaux et matrices électorales AD Aveyron série E-dépôt 12139 ; possiblement aussi presse locale (*Le Journal de l'Aveyron*, *Centre-Presse Aveyron*) — voir issue [#20](https://github.com/popul/Marnhagues-et-Latour/issues/20).
+- **Profession et appartenance familiale** de chaque maire identifié : à croiser avec les recensements nominatifs (issue [#1](https://github.com/popul/Marnhagues-et-Latour/issues/1)) et les actes d'état civil pour reconstituer les **réseaux familiaux** qui ont gouverné la commune.
+- **Rapport éventuel à la famille de Bonald** au XIXᵉ : aucun Bonald maire de Marnhagues-et-Latour à ce stade dans MGW. Le philosophe Louis de Bonald (1754-1840) a été maire de Millau, pas de la petite commune. À confirmer par dépouillement systématique.
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#2](https://github.com/popul/Marnhagues-et-Latour/issues/2).
