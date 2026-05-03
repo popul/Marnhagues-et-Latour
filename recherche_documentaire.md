@@ -762,6 +762,158 @@ Les équipements antérieurs à la fibre n'ont pas de source ouverte directe et 
 
 > **Sources consultées le 2026-05-03.** Issue de référence : [#23](https://github.com/popul/Marnhagues-et-Latour/issues/23).
 
+### 14.7. La commune et la lutte du Larzac (1971-1981)
+
+> Sources : Wikipédia [*Lutte du Larzac*](https://fr.wikipedia.org/wiki/Lutte_du_Larzac). Cf. issue [#24](https://github.com/popul/Marnhagues-et-Latour/issues/24).
+
+#### 14.7.1. Position géographique de la commune
+
+Marnhagues-et-Latour est située dans la **vallée de la Sorgues**, à **425 m d'altitude**, **au pied du causse du Larzac** (qui culmine à 1 100 m une dizaine de kilomètres à l'est). Le **chef-lieu du Larzac luttant** était à La Cavalerie / Millau, mais Marnhagues fait partie de la **zone d'influence directe** : ses habitants sont des éleveurs de brebis (production laitière de roquefort, comme leurs voisins du plateau), partagent le même système agraire, et la frontière Larzac / vallée de la Sorgues est plus économique que politique.
+
+#### 14.7.2. Chronologie de la lutte (rappel)
+
+- **1971-1972** : annonce du projet d'extension du camp militaire (de 3 000 à 17 000 ha) ; **108 paysans** menacés.
+- **19 mars 1972** : début de la grève de la faim de **Lanza del Vasto** à La Cavalerie.
+- **1972-1980** : actions non violentes, accueil des « 103 cinéastes », bergerie d'Auguste Guiraud (1973-1974), restitution des livrets militaires (action 1972 → 1980, ~1 030 livrets déposés à Strasbourg en mai 1980).
+- **Septembre-décembre 1978** : arrêtés d'expropriation sur **14 communes**.
+- **3 juin 1981** : Mitterrand annonce l'abandon de l'extension.
+- **1985** : création de la **SCTL (Société civile des terres du Larzac)** qui pérennise la gestion collective des terres rendues.
+
+#### 14.7.3. Position de Marnhagues-et-Latour : à recouper
+
+**La commune ne figure pas explicitement dans la liste des « 14 communes »** ayant subi des arrêtés d'expropriation. Mais elle a probablement :
+
+- pris part aux **rassemblements** (les grands meetings de 1973-1974 réunissaient 60 000 à 100 000 personnes — la commune en est à 30-40 km à pied) ;
+- été traversée par les **livraisons et bénévoles** allant vers le plateau (route D7 qui monte de Saint-Affrique vers Cornus passe par les communes voisines) ;
+- vu une partie de ses paysans **adhérer à l'APAL** (Association pour la promotion de l'agriculture sur le Larzac).
+
+**Pistes documentaires** pour préciser la participation :
+
+- **Registres de délibérations municipales** (AD série E-dépôt 12139, années 1971-1981) : motion de soutien éventuelle, autorisation de logement de bénévoles, prise de position du conseil.
+- **Presse locale** (issue [#20](https://github.com/popul/Marnhagues-et-Latour/issues/20)) : *Centre-Presse Aveyron*, *Journal de Millau*, dépouillement août 1971-juin 1981 sur le mot-clé « Marnhagues » ou « vallée de la Sorgues » dans la couverture du Larzac.
+- **Mémoire orale** (issue [#16](https://github.com/popul/Marnhagues-et-Latour/issues/16)) : la génération 75-95 ans est encore témoin directement.
+- **Archives APAL / Larzac-Universités** : conservées partiellement à Millau, peuvent contenir les listes nominatives des participants par origine.
+
+> **Maire de la commune en 1971-1981** : c'est précisément la lacune de § 14.10 (1903-1995). L'identifier serait un acquis fort pour comprendre la position officielle de la commune.
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#24](https://github.com/popul/Marnhagues-et-Latour/issues/24).
+
+### 14.8. Résultats électoraux récents
+
+> Source primaire : ministère de l'Intérieur, datasets ouverts publiés sur [data.gouv.fr](https://www.data.gouv.fr) (catégories *Elections*). Cf. issue [#14](https://github.com/popul/Marnhagues-et-Latour/issues/14).
+
+#### 14.8.1. Municipales 2020 — 1ᵉʳ tour (15 mars 2020), commune INSEE 12139
+
+Liste unique. **Inscrits 140**, **abstentions 39 (27,86 %)**, **votants 101 (72,14 %)**, blancs 2, nuls 1, **exprimés 98**. Conseil municipal de **11 membres** :
+
+| Rang | Sexe | Nom | Prénom | Voix | % Inscrits | % Exprimés |
+|---:|:---:|---|---|---:|---:|---:|
+| 2 | M | THIBAULT-LAURENT | Jérôme *(maire reconduit)* | 85 | 60,71 | 86,73 |
+| 3 | M | CONNES | Alain *(ancien maire 2014-2020)* | 89 | 63,57 | 90,82 |
+| 4 | F | ANTOINE | Nicole | 72 | 51,43 | 73,47 |
+| 5 | M | DESPREZ | Jean-Louis | 89 | 63,57 | 90,82 |
+| 6 | M | SOBIE | Bernard | 80 | 57,14 | 81,63 |
+| 7 | M | DURAND | Fernand | 72 | 51,43 | 73,47 |
+| 8 | F | JALADE | Anne-Marie | 82 | 58,57 | 83,67 |
+| 9 | F | MAITRE | Laurence | 89 | 63,57 | 90,82 |
+| 10 | F | LAMARQUE | Christine | 80 | 57,14 | 81,63 |
+| 11 | F | PARODI | Carole | 88 | 62,86 | 89,80 |
+| 12 | F | RIVIERE | Michèle | 90 | 64,29 | **91,84** *(meilleur score)* |
+
+#### 14.8.2. Lectures
+
+- **Liste consensuelle** : pas de second tour, score plancher 73 % des exprimés. La cohabitation **Thibault-Laurent** (maire) + **Connes** (ancien maire) sur la même liste confirme l'analyse de § 14.10.
+- **Continuité prosopographique remarquable** : le patronyme **DESPREZ** (Jean-Louis, conseiller municipal 2020) est attesté à Nonenque dès **1560** avec **Louise Desprez de Montpezat**, abbesse au moment de l'incendie huguenot (cf. § 14.3). Sur 460 ans, la famille Desprez est encore enracinée localement — à creuser via l'état civil (depuis quand sont-ils dans la commune ?).
+- Le patronyme **DURAND** (Fernand, conseiller 2020) figure aussi parmi les premiers maires de la commune en 1793 (Pierre Xavier Durand) et 1866-1870 (Rodolphe Durand) — autre dynastie communale.
+- **Parité quasi parfaite** : 6 femmes / 5 hommes (loi sur la parité des conseils municipaux applicable aux communes de < 1 000 hab. depuis 2014).
+
+#### 14.8.3. Sources à compléter
+
+Pour reconstituer une chronologie 2014-2024 complète :
+
+- **Municipales 2014** : dataset data.gouv « Elections municipales 2014 » — recouper INSEE 12139, T1 et T2.
+- **Municipales 2026** : à venir au moment du dépouillement (mars 2026).
+- **Présidentielles 2017 / 2022** : datasets data.gouv ; observatoire des résultats par bureau de vote permet de cartographier les votes Marnhagues.
+- **Européennes 2019 / 2024** et **Législatives 2017 / 2022 / 2024** : idem.
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#14](https://github.com/popul/Marnhagues-et-Latour/issues/14).
+
+### 14.9. Sociologie de la commune (Insee 2022, recensement publié 2025)
+
+> Source primaire : [Insee, *Dossier complet — Commune de Marnhagues-et-Latour (12139)*](https://www.insee.fr/fr/statistiques/2011101?geo=COM-12139). Recensement 2022, dossier publié décembre 2025. Cf. issue [#27](https://github.com/popul/Marnhagues-et-Latour/issues/27).
+
+#### 14.9.1. Logement (recensement 2022)
+
+| Catégorie | 1968 | 1990 | 2011 | 2016 | **2022** |
+|---|---:|---:|---:|---:|---:|
+| Ensemble des logements | 81 | 100 | 124 | 124 | **129** |
+| Résidences principales | 41 | 38 | 57 | 59 | **71** |
+| Résidences secondaires | 29 | 56 | 60 | 61 | **49** |
+| Logements vacants | 11 | 6 | 8 | 4 | **8** |
+
+**Lectures** :
+- **Bascule récente résidences secondaires → résidences principales** : 48,9 % de RS en 2016 → **38,2 %** en 2022, +12 résidences principales en 6 ans. C'est l'effet **néoruralisme** : les anciennes maisons de vacances deviennent des résidences principales, et de nouveaux ménages viennent s'installer. Ce mouvement explique la reprise démographique mesurée en § 14.1.
+- **Stock total stable** depuis 2011 (124 → 129) : pas de construction massive, mutations sur le bâti existant.
+- **Nombre moyen d'occupants par RP** : 1,79 en 2022 (vs 2,88 en 1968). Vieillissement et solo-occupation.
+
+#### 14.9.2. Statut d'occupation
+
+| | 2011 | 2016 | **2022** |
+|---|---:|---:|---:|
+| Propriétaires | 90,7 % | 87,1 % | **82,2 %** |
+| Locataires | 5,6 % | 8,1 % | **12,3 %** |
+| Logés gratuitement | 3,7 % | 4,8 % | 5,5 % |
+
+→ **Diversification du parc** : la part de propriétaires baisse (-8 pts en 11 ans) tandis que le locatif progresse — vraisemblablement effet du néoruralisme (entrée par la location avant éventuelle acquisition).
+
+#### 14.9.3. Population active (15-64 ans, recensement 2022)
+
+| | 2011 | 2016 | **2022** |
+|---|---:|---:|---:|
+| Population active totale | 72 | 66 | 70 |
+| Actifs en % | 48,3 | 59,4 | **80,3** |
+| Actifs ayant un emploi | 46,8 % | 53,6 % | **62,1 %** |
+| **Chômeurs** | 1,5 % | 5,8 % | **18,3 %** |
+| Retraités/préretraités | 20,5 % | 17,4 % | 4,2 % |
+
+⚠️ **Saut du chômage 2016→2022** (5,8 → 18,3 %) à interpréter avec prudence sur une base de 70 personnes : l'écart absolu est faible (4 personnes vs 13). Mais cohérent avec un afflux de néoruraux non encore stabilisés professionnellement.
+
+#### 14.9.4. Revenus (Filosofi 2021)
+
+- **57 ménages fiscaux**, 101 personnes (au champ « ménages fiscaux ordinaires »).
+- **Médiane du revenu disponible** : **18 410 €/an/UC** — soit **1 534 €/mois/UC**, **inférieur à la médiane française** (~22 040 €/an/UC en 2021). Une commune **modestement populaire** au sens des revenus, sans extrême pauvreté ni richesse marquée.
+- **Part des ménages imposés** : non publiée (« s » = secret statistique car effectif trop faible).
+
+#### 14.9.5. Mobilité travail
+
+| | 2011 | 2016 | **2022** |
+|---|---:|---:|---:|
+| Total emplois résidents | 35 | 36 | 43 |
+| **Travail dans la commune** | 36,4 % | 31,6 % | **24,9 %** |
+| **Travail dans une autre commune** | 63,6 % | 68,4 % | **75,1 %** |
+
+→ **Forte dépendance à un bassin d'emploi externe** (Saint-Affrique très probablement). 3/4 des actifs partent travailler hors de Marnhagues — c'est cohérent avec un village qui devient résidentiel.
+
+#### 14.9.6. Activité économique communale (2022)
+
+- **2 entreprises créées** dans l'année (1 industrie manufacturière SARL, 1 construction entreprise individuelle).
+- **0 hébergement touristique** déclaré (résidence de tourisme, gîte, auberge…). Un **angle mort** : il y a vraisemblablement des **gîtes ruraux non déclarés Insee** (chambres d'hôtes, locations Airbnb, etc.) à recouper avec les données ATOUT France ou la base Gîtes de France Aveyron.
+
+#### 14.9.7. Habitat — ancienneté
+
+| Période d'achèvement | Nombre | % |
+|---|---:|---:|
+| Avant 1919 | 24 | **35,2** |
+| 1919-1945 | 3 | 4,2 |
+| 1946-1970 | 6 | 8,5 |
+| 1971-1990 | 13 | 18,3 |
+| 1991-2005 | 11 | 15,5 |
+| 2006-2019 | 13 | 18,3 |
+
+→ **Plus d'un tiers du parc bâti antérieur à 1919** : c'est la signature d'un village rural ancien préservé. La quasi-absence de constructions 1919-1970 (9 %) reflète la déprise rurale classique.
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#27](https://github.com/popul/Marnhagues-et-Latour/issues/27).
+
 ### 14.10. Liste des maires depuis 1790
 
 #### 14.10.1. Tableau chronologique
