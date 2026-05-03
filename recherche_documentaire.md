@@ -603,6 +603,65 @@ Source primaire : [Wikipédia — *Abbaye de Nonenque*](https://fr.wikipedia.org
 
 > **Sources consultées le 2026-05-03.** Issue de référence : [#9](https://github.com/popul/Marnhagues-et-Latour/issues/9).
 
+### 14.6. Modernisation rurale — équipements techniques
+
+> Chronologie comparée des grands équipements collectifs qui ont sorti la commune de l'isolement matériel au XXᵉ siècle. Les données précises électrification / adduction / téléphone exigent un dépouillement des registres municipaux (AD Aveyron série E-dépôt 12139) et de la série O (administration communale) — non encore effectué. Les données fibre sont en revanche entièrement publiques et précises.
+
+#### 14.6.1. Tableau de synthèse
+
+| Équipement | Date(s) de mise en service | Maître d'ouvrage | Source consultée | Statut |
+|---|---|---|---|---|
+| **Routes carrossables** | XIXᵉ-XXᵉ : Cassini 1750 (chemins muletiers), État-Major 1820-1860 (premières routes), goudronnage progressif après 1950 | Département de l'Aveyron + commune | À recouper avec [Géoportail](https://www.geoportail.gouv.fr) couches historiques | ⚠️ archives à dépouiller |
+| **Électrification** | Probablement **1925-1940** pour le bourg de Latour, **post-WWII** pour les hameaux (Marnhagues, La Roquaubel, écarts). Phase massive de l'électrification rurale française : 1923-1965. Aveyron : SIEDA fondé en 1947. | SIEDA (Syndicat Intercommunal d'Énergies du Département de l'Aveyron) | À recouper en série O et registres délibérations | ⚠️ archives à dépouiller |
+| **Adduction d'eau potable** | Probablement **1950-1970** (vague nationale d'adduction rurale subventionnée par le FNDAE). Possible service collectif syndical à ce stade. | Syndicat Intercommunal local + commune | [SISPEA](https://www.services.eaufrance.fr) ne référence pas la commune au 03/05/2026 (probablement rattachée à un syndicat plus large à identifier) | ⚠️ archives à dépouiller |
+| **Téléphone** | Probablement **post-1955** (phase d'équipement rural des PTT) ; généralisation **1970-1985** (rattrapage des « 22 à Asnières »). | PTT puis France Télécom | Annuaires anciens des PTT pour l'Aveyron, BnF | ⚠️ archives à dépouiller |
+| **Téléphonie mobile** | 4G : déploiement progressif post-2017 (programme « New Deal Mobile » signé fin 2017 entre l'État et les opérateurs). 5G : à confirmer pour la commune. | Orange / SFR / Bouygues / Free | [ARCEP — Mon réseau mobile](https://monreseaumobile.arcep.fr) | À documenter (issue [#23](https://github.com/popul/Marnhagues-et-Latour/issues/23)) |
+| **Fibre optique (FTTH)** | **Premier déploiement Q3-Q4 2022** ; couverture 97 % atteinte fin 2023. **Voir § 14.6.2 pour la chronologie trimestrielle complète.** | **Altitude Infra Très Haut Débit (AXTD)** — RIP Aveyron, zone d'initiative publique unique (ZIPU) | ARCEP — observatoire haut et très haut débit | ✅ documenté |
+
+#### 14.6.2. Déploiement de la fibre optique 2018-2025 (données ARCEP)
+
+Source : ARCEP, *Le marché du haut et très haut débit fixe (déploiements)*, données ouvertes au format shapefile, [data.gouv.fr/datasets/le-marche-du-haut-et-tres-haut-debit-fixe-deploiements](https://www.data.gouv.fr/datasets/le-marche-du-haut-et-tres-haut-debit-fixe-deploiements). Lignes communales (INSEE 12139) extraites des fichiers trimestriels Commune.
+
+| Trimestre | Locaux à raccorder | Locaux raccordables FttH | Couverture % | Opérateur d'immeuble | Zone |
+|---:|---:|---:|---:|:---:|:---:|
+| 2018 T3 | 127 *(estim.)* | 0 | 0 % | — | ZMD |
+| 2019 T4 | 127 *(estim.)* | 0 | 0 % | — | ZMD |
+| 2020 T4 | 144 | 0 | 0 % | **AXTD** *(bascule en RIP)* | ZIPU |
+| 2021 T4 | 143 | 0 | 0 % | AXTD | ZIPU |
+| **2022 T4** | 144 | **68** | 25 % | AXTD | ZIPU |
+| **2023 T4** | 144 | **140** | 80 % | AXTD | ZIPU |
+| 2024 T4 | 144 | 140 | 80 % | AXTD | ZIPU |
+| 2025 T4 | 143 | 140 | 80 % | AXTD | ZIPU |
+
+**Lectures** :
+
+- **Date d'arrivée de la fibre** : entre Q1 et Q4 2022 (les premiers 68 locaux sont raccordables à fin 2022, soit ~47 % du parc). Le calendrier RIP Aveyron est cohérent avec le **Plan France THD** (objectif 100 % en 2025). Bascule sous opérateur **AXTD** (Altitude Infra) dès fin 2020 : c'est la mise en concession publique du futur réseau qui précède de deux ans son déploiement effectif.
+- **Saut massif 2022→2023** : +72 locaux raccordables en un an (68 → 140). C'est probablement la mise en service du **NRO** (nœud de raccordement optique) qui dessert la commune et le tirage simultané des fibres dans tous les hameaux raccordés.
+- **Couverture stable à 80 %** depuis fin 2023 : le ratio « couverture » publié par l'ARCEP n'est pas exactement « locaux raccordables / locaux total ». Le ratio brut **140/144 = 97,2 %** indique que **3-4 logements** restent non raccordables. À identifier (granges écartées ? résidences secondaires sans demande ? écarts trop éloignés ?).
+- **Capacité technique** : 143-144 locaux raccordables en 2025 pour une population de 147 hab. (cf. § 14.1) ⇒ ~1 local par habitant, ratio cohérent avec un fort taux de **résidences secondaires** typique du Larzac (50 % des locaux ?).
+
+#### 14.6.3. Sources à dépouiller pour compléter
+
+Les équipements antérieurs à la fibre n'ont pas de source ouverte directe et exigent un dépouillement physique :
+
+1. **Registres de délibérations municipales 12139** (AD Aveyron, série E-dépôt) :
+   - Délibérations d'**adhésion au syndicat** d'électrification (date à identifier — fin années 1920 ou années 1930 le plus probable).
+   - Autorisation des **travaux d'adduction d'eau** (deux vagues classiques : un SIVU dans les années 1950-1960 puis une mise aux normes dans les années 1980).
+   - **Raccordement téléphonique** initial (fin 1950s ou années 1960).
+   - **Goudronnage** des routes communales (typiquement 1950-1970).
+
+2. **AD Aveyron, série O** (administration communale) — programmes d'équipement, subventions.
+
+3. **SIEDA Aveyron** — archives techniques [www.sieda.fr](https://www.sieda.fr) ; demander un extrait historique pour la commune 12139.
+
+4. **Annuaires téléphoniques** des PTT — la BnF conserve la collection nationale ([gallica.bnf.fr](https://gallica.bnf.fr) — version numérisée pour certaines années). Permet de dater l'apparition des premiers abonnés à Marnhagues.
+
+5. **Photothèque IGN — vues aériennes historiques** ([remonterletemps.ign.fr](https://remonterletemps.ign.fr/comparer/basic)) : repérer la **construction du château d'eau** (s'il existe) sur les missions photographiques 1950, 1962, 1980.
+
+6. **Archives France Télécom / Orange** : les annuaires d'abonnés et plans de répartiteurs sont consultables en partie sur le site mémoire des télécoms.
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#23](https://github.com/popul/Marnhagues-et-Latour/issues/23).
+
 ### 14.10. Liste des maires depuis 1790
 
 #### 14.10.1. Tableau chronologique
