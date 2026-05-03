@@ -603,6 +603,106 @@ Source primaire : [Wikipédia — *Abbaye de Nonenque*](https://fr.wikipedia.org
 
 > **Sources consultées le 2026-05-03.** Issue de référence : [#9](https://github.com/popul/Marnhagues-et-Latour/issues/9).
 
+### 14.4. Famille de Bonald — généalogie et présence à Marnhagues-et-Latour
+
+> Sources principales : article Wikipédia [*Famille de Bonald*](https://fr.wikipedia.org/wiki/Famille_de_Bonald) ; Maurice de Bonald, *Documens généalogiques sur des familles du Rouergue*, Rodez 1902 (texte intégral sur [Internet Archive](https://archive.org/details/documensgnalogi00bonagoog)) ; Maurice de Bonald, *Saunhac, 1070-1926* (Gallica BnF). Cf. issue [#25](https://github.com/popul/Marnhagues-et-Latour/issues/25).
+
+#### 14.4.1. Demeures et possessions
+
+La famille de Bonald, **noblesse du Languedoc** ancrée à Millau, possède au cours des XVIᵉ-XIXᵉ siècles plusieurs domaines en sud Aveyron : **La Rode**, **La Tour** (i.e. **Latour-sur-Sorgues**), **Douzilhet**, **Manhargues** (i.e. **Marnhagues**), **Le Monna** (siège préféré), **Miremont**. Trois de ces propriétés (Latour, Manhargues, Le Monna) gravitent autour de la commune actuelle de Marnhagues-et-Latour ou de son immédiate proximité.
+
+> **Trouvaille majeure** : *« vendu vers 1650 à la famille de Roquefeuil par **Jacques de Bonald**, seigneur de Jonquières et de la **Tour-de-Marnhagues**, capitaine au régiment de Saligny, marié en 1652 à Marie de Rességuier »* (Wikipédia *Famille de Bonald*). 
+>
+> Cela retourne notre chronologie de § 4.2 : les **Bonald sont seigneurs de Latour-sur-Sorgues *avant* les Roquefeuil**, et leur en cèdent la propriété au milieu du XVIIᵉ. Les Roquefeuil tiennent ensuite Latour pendant un siècle et demi avant que les Bonald ne **rachètent** le château au XIXᵉ siècle (cf. § 12.1). Cette vente-rachat sur 200 ans inscrit la commune dans l'orbite Bonald sur la longue durée — elle n'est pas une « simple acquisition tardive » mais un **retour ancestral**.
+
+#### 14.4.2. Filiation principale autour de la commune
+
+| Génération | Personnage | Naissance-décès | Relation à Marnhagues |
+|---|---|---|---|
+| XVIᵉ-XVIIᵉ | Plusieurs Bonald | — | Seigneurs de la Tour-de-Marnhagues (avant 1650) — premier ancrage local. |
+| XVIIᵉ | **Jacques de Bonald** | mort apr. 1652 | Vend Latour-de-Marnhagues à la famille Roquefeuil **vers 1650**. Capitaine au régiment de Saligny, seigneur de Jonquières. Marié 1652 à Marie de Rességuier. |
+| XVIIIᵉ | (à reconstituer) | — | Bonald deviennent juges et baillis de Millau pendant 7 générations consécutives — la branche aînée garde l'ancrage rouergat. |
+| XVIIIᵉ-XIXᵉ | **Louis de Bonald** | 1754 (Millau) - 1840 (Millau) | Le **vicomte philosophe**, traditionaliste, contre-révolutionnaire. Cf. § 5.3 et § 14.4.3. Pas connu pour avoir résidé à Latour. |
+| XIXᵉ | **Louis-Jacques-Maurice de Bonald** | 1787 (Millau) - 1870 (Lyon) | Fils du précédent. **Cardinal**, archevêque du Puy puis de Lyon. Cf. § 6.3 et § 14.4.4. C'est probablement sous lui ou son frère que la famille **rachète** Latour. |
+| XIXᵉ-XXᵉ | **Maurice de Bonald** *(homonyme)* | XIXᵉ-XXᵉ | Auteur des *Documens généalogiques sur des familles du Rouergue* (1902, IA) et de *Saunhac, 1070-1926* (Gallica). Vraisemblablement résident ou ayant droit à Latour ; à confirmer dans l'état civil aveyronnais. |
+
+> **Lacune à combler** : la **filiation entre Jacques (~1650) et Louis (1754)**, et la **filiation post-1840 jusqu'à l'acquisition du château de Latour par la commune en 1991** (cf. issue [#7](https://github.com/popul/Marnhagues-et-Latour/issues/7)). À reconstituer dans Maurice de Bonald 1902 (texte intégral disponible) et dans les actes notariés AD Aveyron série 3 E.
+
+#### 14.4.3. Le vicomte Louis de Bonald (1754-1840) — § 5.3 enrichi
+
+- **Né à Millau le 2 octobre 1754, mort à Millau le 23 novembre 1840** (crise d'asthme, 86 ans). Élève du collège de Juilly (oratoriens).
+- Mousquetaire à 19 ans, puis maire de Millau sous l'Ancien Régime, **émigré** en 1791 dans l'armée des princes (à Coblence puis en Allemagne).
+- Sous le Consulat, rédige sa *Théorie du pouvoir politique et religieux* (1796) qui le révèle à l'Europe lettrée. Fonde en 1797 *Le Mercure de France* avec Chateaubriand.
+- En 1801 : *Du divorce*, plaide pour l'indissolubilité du mariage. En 1802 : ***Législation primitive***, où il défend la thèse que la noblesse est l'indispensable arc-boutant de l'ordre social.
+- **Conseiller d'État** sous l'Empire (1810-1814) — Napoléon le tolère malgré son royalisme.
+- Sous la Restauration : **député de l'Aveyron** (1815-1822), **Pair de France** par ordonnance du 23 décembre 1823, président du conseil général de l'Aveyron.
+- **Académie française** : élu en 1816.
+- Doctrine : **traditionalisme**, **ultramontanisme**, théorie de la **trinité sociologique** (pouvoir / ministère / sujet) à laquelle Auguste Comte rendra hommage.
+- *Citation Gustave Chaix d'Est-Ange* : « un des plus illustres écrivains de son temps. »
+
+#### 14.4.4. Le cardinal Louis-Jacques-Maurice de Bonald (1787-1870) — § 6.3 enrichi
+
+- **Né à Millau en octobre 1787, mort à Lyon (5ᵉ arr.) en février 1870**, 82 ans.
+- Fils aîné du vicomte Louis. Ordonné prêtre.
+- **Évêque du Puy-en-Velay** (1823-1839).
+- **Archevêque de Lyon et primat des Gaules** (1839-1870).
+- **Cardinal** créé par Grégoire XVI en 1841.
+- **Sénateur du Second Empire** ; commandeur de la Légion d'honneur (1852).
+- **Ultramontain**, partisan de l'autorité romaine ; s'oppose à la loi Falloux (qu'il trouve trop modérée) et soutient les positions intransigeantes de Pie IX (Syllabus 1864, Vatican I 1870).
+- **Mort le 25 février 1870** à Lyon, quelques mois avant le concile Vatican I auquel il avait participé.
+
+#### 14.4.5. Indications complémentaires de Maurice de Bonald, *Documens généalogiques* 1902
+
+Récupération du texte intégral OCR (Internet Archive, 347 KB de texte). Recherches sur les toponymes de la commune :
+
+- **Mention « Marguerite et Jaqueline d'Ardenne, religieuses à l'abbaye de Nonenque sous l'abbatiat de Madame d'Estaing »** (§ 14.3 abbesse Charlotte d'Estaing, 1725-1760) — confirme le réseau prosopographique : la noblesse rouergate place ses filles cadettes à Nonenque sur la longue durée. À recouper avec les **registres de profession de l'abbaye** (série H AD Aveyron).
+- L'index alphabétique liste **plusieurs Bonald** (Joseph, Raimond, Pierre, Jean, Charles), confirmant la **fragmentation en plusieurs branches** au XVIIᵉ-XVIIIᵉ — toutes basées entre Millau et le sud-Larzac.
+- L'**héritage Roquefeuil-Versols** d'Ursule de Bar (1683-1708) passe à un *« neveu Roquefeuil-Versols »* — preuve supplémentaire que la maison Roquefeuil-Versols capte au XVIIᵉ des héritages multiples dans le Rouergue, y compris la seigneurie de Latour rachetée aux Bonald vers 1650.
+
+> **Approfondissement à mener** : reproduire le **chapitre Bonald** intégral du livre 1902 (le texte est disponible sans restriction sur Internet Archive, lien direct : [`documensgnalogi00bonagoog_djvu.txt`](https://archive.org/download/documensgnalogi00bonagoog/documensgnalogi00bonagoog_djvu.txt)). Idem pour l'index « Sorgues » qui pointe vers une famille noble homonyme à fouiller (potentiellement liée à la rivière qui traverse la commune).
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#25](https://github.com/popul/Marnhagues-et-Latour/issues/25).
+
+### 14.5. La Sorgues — hydrographie et risque inondation
+
+> Sources : Wikipédia [*Sorgues (rivière de l'Aveyron)*](https://fr.wikipedia.org/wiki/Sorgues_(rivi%C3%A8re_de_l%27Aveyron)) ; **Banque Hydro** (station Saint-Affrique–Vendeloves, période 1975-2007). Cf. issue [#15](https://github.com/popul/Marnhagues-et-Latour/issues/15).
+
+#### 14.5.1. Caractéristiques générales
+
+- **Longueur** : 46,4 km. Source au pied du Larzac près de **Cornus** par une **exsurgence karstique majeure**. Confluence dans le **Dourdou de Camarès** en aval de Saint-Affrique, tout près de Vabres-l'Abbaye.
+- **Bassin versant** : 279 km² (mesuré à Saint-Affrique).
+- **Affluents** : tous sur la rive droite — Annou, Matas, Marnhagues, Mas Calvi, Rebouisses, Rose, Bruel, Congrou, Vern.
+- Sous-affluent du **Tarn** par le Dourdou de Camarès, et de la **Garonne** par le Tarn.
+
+#### 14.5.2. Régime hydraulique (station Saint-Affrique–Vendeloves, 1975-2007)
+
+- **Module annuel** (débit moyen) : **4,38 m³/s**.
+- **Hautes eaux** : novembre à mai, débit mensuel 5,00 à 6,73 m³/s, **maximum en février**.
+- **Basses eaux** : juin-octobre, étiage prononcé. **VCN3 quinquennal sec** = 0,790 m³/s = 790 l/s — soutenu par les eaux souterraines karstiques du Larzac.
+- **Lame d'eau écoulée** : 496 mm/an, supérieure à la moyenne France (320 mm) et à la moyenne du bassin du Tarn (478 mm).
+
+#### 14.5.3. Crues — historique et probabilités
+
+| Crue type | Débit instantané |
+|---|---|
+| QIX 2 (biennale) | 77 m³/s |
+| QIX 5 | 120 m³/s |
+| QIX 10 | 140 m³/s |
+| QIX 20 | 170 m³/s |
+| QIX 50 | **200 m³/s** |
+| **27 septembre 1992** (record observé) | **302 m³/s instantané, 203 m³/s journalier** — *largement supérieur* à la crue cinquantennale, *« exceptionnel »* |
+
+#### 14.5.4. Impact sur Saint-Amans de Valsorgue et la commune
+
+L'élément patrimonial communal le plus exposé est la **chapelle Saint-Amans de Valsorgue**, située en rive de la Sorgues à l'amont du bourg de Latour. La crue exceptionnelle du **27 septembre 1992** a très probablement atteint son enceinte (à confirmer par photo, témoignage oral, ou registre de délibérations municipales). À documenter par :
+
+- **Registres de délibérations** AD Aveyron série E-dépôt 12139, années 1992-1993.
+- **Banque hydro** ([hydro.eaufrance.fr](https://hydro.eaufrance.fr)) : station Vendeloves, requête sur 1992 pour le débit horaire.
+- **Photos / coupures de presse** : *Centre-Presse Aveyron* et *Le Journal de Millau* du 28-30 septembre 1992 (cf. issue [#20](https://github.com/popul/Marnhagues-et-Latour/issues/20) — dépouillement presse locale).
+- **Mémoires habitants** (cf. issue [#16](https://github.com/popul/Marnhagues-et-Latour/issues/16) — recueil oral) : la crue de 1992 est l'événement hydraulique encore mémorable des plus de 50 ans actuels.
+
+> **Sources consultées le 2026-05-03.** Issue de référence : [#15](https://github.com/popul/Marnhagues-et-Latour/issues/15).
+
 ### 14.6. Modernisation rurale — équipements techniques
 
 > Chronologie comparée des grands équipements collectifs qui ont sorti la commune de l'isolement matériel au XXᵉ siècle. Les données précises électrification / adduction / téléphone exigent un dépouillement des registres municipaux (AD Aveyron série E-dépôt 12139) et de la série O (administration communale) — non encore effectué. Les données fibre sont en revanche entièrement publiques et précises.
