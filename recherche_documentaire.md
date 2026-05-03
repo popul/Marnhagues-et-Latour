@@ -22,7 +22,7 @@
 - **Maire (2026)** : Jérôme Thibault-Laurent, élu en mai 2020.
 
 ### 1.2. Cadre géographique
-La commune occupe le centre de la **vallée de la Sorgues**, à **425 m d'altitude**, à mi-chemin entre Cornus (sud-est, sur le Larzac) et Saint-Affrique (nord-ouest). Elle se compose de :
+La commune occupe le centre de la **vallée de la Sorgues**, à **424 m d'altitude moyenne** (425 m pour le village de Latour), sur une superficie de **21,97 km²**, à mi-chemin entre Cornus (sud-est, sur le Larzac) et Saint-Affrique (nord-ouest). Elle se compose de :
 - le **village de Latour** (chef-lieu, sur un éperon rocheux dominant la Sorgues) ;
 - le **hameau de Marnhagues** (dans le vallon du ruisseau de Matas, affluent de la Sorgues) ;
 - le **hameau de La Roquaubel** (dans le vallon de l'Annou, autre affluent de la Sorgues).
@@ -279,7 +279,15 @@ La Sorgues elle-même prend sa source au pied du Larzac, près de Cornus, par un
 - **Plan-du-patrimoine** (notice MH PA12000086) : https://www.plan-du-patrimoine.fr/monument-historique/12/marnhagues-et-latour/chateau-de-latour/PA12000086/
 - **Les Amis de Saint-Amans de Valsorgue** : https://lesamisdesaintamansdevalsorgue.fr/
 
-> *Note méthodologique* : lors de la troisième campagne, **WebFetch a été bloqué (HTTP 403)** sur la quasi-totalité des sites cibles (Wikipédia, Insee, site mairie, MémorialGenWeb, chateaudelatour-aveyron.fr). Les données ont été reconstituées à partir des extraits indexés par les moteurs de recherche. Toutes les pages listées ci-dessus devront être **consultées dans un navigateur classique** lors de la rédaction du livre afin de récupérer le contenu intégral et les illustrations exploitables.
+> *Note méthodologique (mai 2026)* : lors des recherches en ligne, **WebFetch a été bloqué (HTTP 403, `host_not_allowed`)** sur la quasi-totalité des sites cibles (Wikipédia, Insee, site mairie, MémorialGenWeb, chateaudelatour-aveyron.fr, Persée, Gallica, archive.org). La whitelist sortante du sandbox d'exécution ne couvre que `github.com`, `raw.githubusercontent.com` et `api.anthropic.com`. **WebSearch reste fonctionnel** (exécuté en dehors du sandbox) et permet, par requêtes ciblées demandant directement les données, de récupérer dans les *snippets* l'essentiel des chiffres et faits — exemple : la requête « *Marnhagues-et-Latour population 1968 1975 1982 1990 1999 chiffres exacts* » a remonté la série complète **144 / 146 / 132 / 102 / 132**.
+>
+> Restent **inaccessibles via les moteurs de recherche** (parce que stockés derrière des formulaires dynamiques que les moteurs n'indexent pas) :
+> - la liste nominative du monument aux morts 14-18 et 39-45 (MémorialGenWeb par formulaire INSEE 12139) ;
+> - la liste exhaustive des maires antérieurs à Jérôme Thibault-Laurent (MairesGenWeb, base Insee depuis 1814) ;
+> - les résultats électoraux de Marnhagues-et-Latour pour les présidentielles 2017/2022, européennes 2019/2024, municipales 2014/2020 (`archives-resultats-elections.interieur.gouv.fr`) ;
+> - la série démographique Cassini-EHESS pour les années 1793-1962 (base interactive `cassini.ehess.fr`).
+>
+> Ces sources existent **publiquement** mais nécessitent une consultation directe en navigateur ou un dépouillement physique pour être citées dans le livre.
 
 ---
 
@@ -582,8 +590,8 @@ Densité actualisée : **6,3 hab./km²** sur **21,9 km²**.
 ### 14.8. Sauvegarde du château de Latour (1990-2024)
 
 - **Jusqu'en 1991** : le château abrite encore une **exploitation agricole familiale** ; la dernière propriétaire (issue ou ayant droit de la lignée Bonald) ne peut plus assurer l'entretien.
-- **1991** : création de l'**Association des Amis du château de Latour-sur-Sorgues**, affiliée à l'**Union REMPART** (groupe REMPART « Les Amis de Latour-sur-Sorgue »). L'association est créée précisément **pour pousser la mairie au rachat** et préfigurer la sauvegarde.
-- **1992** : **la commune rachète le château** à la famille propriétaire (date plus précise que la formulation « 1990-1991 » de la première campagne ; à confirmer par l'acte notarié). Geste municipal exceptionnel pour une commune de **moins de 150 habitants** : sauvetage d'un patrimoine majeur que la famille n'avait plus les moyens d'entretenir.
+- **1991** : la **commune devient propriétaire** du château (acquisition à la famille propriétaire ; acte précis à retrouver). En parallèle, création de l'**Association des Amis du château de Latour-sur-Sorgues**, affiliée à l'**Union REMPART** (groupe REMPART *« Les Amis de Latour-sur-Sorgue »*). Geste municipal exceptionnel pour une commune de **moins de 150 habitants** : sauvetage d'un patrimoine majeur que la famille n'avait plus les moyens d'entretenir.
+- **1992** : **début effectif de la restauration** par l'AACL avec le soutien de la commune. Premier chantier de bénévoles.
 - **1992-2024** : **plus de trente ans** de chantiers de bénévoles et de chantiers d'insertion menés par l'AACL avec REMPART, avec l'aide de la DRAC Occitanie, du Département de l'Aveyron, de la Région et de la Fondation du patrimoine. Travaux : reconstruction des **quatre hourds** de bois, restauration des toitures (lauzes calcaires), du chemin de ronde, des échauguettes, des fenêtres romanes du XIIe et des fenêtres à meneaux du XVe-XVIe, mise au jour et conservation du **plafond peint du premier tiers du XVIe siècle** dans une salle de l'aile sud.
 - **Études dendrochronologiques** : une autre **pièce du rez-de-chaussée (salle ouest) a été datée de 1402** par dendrochronologie, ce qui confirme la phase de reconstruction majeure du début XVe siècle (Roquefeuil-Versols).
 - **Fin des années 2010** : campagne d'études scientifiques sur le plafond peint (dendrochronologie, **caméra infrarouge**, analyse des pigments) menée en partenariat avec un laboratoire spécialisé (cf. § 12.6).
